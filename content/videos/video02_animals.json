@@ -1,0 +1,350 @@
+{
+ "video": 2,
+ "topic": "Animals",
+ "category": "ANIMALS",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "sources": [
+  "https://www.nationalzoo.si.edu/animals/cheetah",
+  "https://www.nhm.ac.uk/discover/things-you-might-not-know-about-capybaras.html",
+  "https://www.whoi.edu/ocean-learning-hub/ocean-topics/ocean-life/sea-birds/emperor-penguins/",
+  "https://www.nationalgeographic.com/animals/mammals/facts/bactrian-camel",
+  "https://www.nps.gov/subjects/bats/how-bats-fly.htm",
+  "https://www.nationalzoo.si.edu/animals/news/how-big-are-tigers-and-more-tiger-facts",
+  "https://www.nhm.ac.uk/discover/what-is-the-biggest-bird-in-the-world.html",
+  "https://www.environment.gov.au/cgi-bin/sprat/public/publicspecies.pl?taxon_id=1774"
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "question": "Which is the fastest land animal?",
+   "options": [
+    "Lion",
+    "Cheetah",
+    "Horse",
+    "Leopard"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question one. Which is the fastest land animal? A. Lion. B. Cheetah. C. Horse. D. Leopard.",
+   "answer_speech": "B is correct, the cheetah."
+  },
+  {
+   "n": 2,
+   "question": "How many legs does a spider have?",
+   "options": [
+    "Six",
+    "Eight",
+    "Ten",
+    "Four"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question two. How many legs does a spider have? A. Six. B. Eight. C. Ten. D. Four.",
+   "answer_speech": "B is correct, eight."
+  },
+  {
+   "n": 3,
+   "question": "What do giant pandas mostly eat?",
+   "options": [
+    "Fish",
+    "Bamboo",
+    "Berries",
+    "Insects"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question three. What do giant pandas mostly eat? A. Fish. B. Bamboo. C. Berries. D. Insects.",
+   "answer_speech": "B is correct, bamboo."
+  },
+  {
+   "n": 4,
+   "question": "Which is the largest living bird?",
+   "options": [
+    "Eagle",
+    "Albatross",
+    "Emu",
+    "Ostrich"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question four. Which is the largest living bird? A. Eagle. B. Albatross. C. Emu. D. Ostrich.",
+   "answer_speech": "D is correct, the ostrich."
+  },
+  {
+   "n": 5,
+   "question": "What is a baby kangaroo called?",
+   "options": [
+    "Joey",
+    "Cub",
+    "Pup",
+    "Kit"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question five. What is a baby kangaroo called? A. Joey. B. Cub. C. Pup. D. Kit.",
+   "answer_speech": "A is correct, a joey."
+  },
+  {
+   "n": 6,
+   "question": "Which is the only mammal that can truly fly?",
+   "options": [
+    "Flying squirrel",
+    "Bat",
+    "Sugar glider",
+    "Penguin"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question six. Which is the only mammal that can truly fly? A. Flying squirrel. B. Bat. C. Sugar glider. D. Penguin.",
+   "answer_speech": "B is correct, the bat."
+  },
+  {
+   "n": 7,
+   "question": "Which animal is the tallest in the world?",
+   "options": [
+    "Elephant",
+    "Camel",
+    "Giraffe",
+    "Moose"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question seven. Which animal is the tallest in the world? A. Elephant. B. Camel. C. Giraffe. D. Moose.",
+   "answer_speech": "C is correct, the giraffe."
+  },
+  {
+   "n": 8,
+   "question": "What is a group of lions called?",
+   "options": [
+    "A pack",
+    "A herd",
+    "A flock",
+    "A pride"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eight. What is a group of lions called? A. A pack. B. A herd. C. A flock. D. A pride.",
+   "answer_speech": "D is correct, a pride."
+  },
+  {
+   "n": 9,
+   "question": "Which insect makes honey?",
+   "options": [
+    "Wasp",
+    "Honeybee",
+    "Ant",
+    "Butterfly"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question nine. Which insect makes honey? A. Wasp. B. Honeybee. C. Ant. D. Butterfly.",
+   "answer_speech": "B is correct, the honeybee."
+  },
+  {
+   "n": 10,
+   "question": "Which is the largest wild cat species?",
+   "options": [
+    "Lion",
+    "Jaguar",
+    "Tiger",
+    "Cheetah"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question ten. Which is the largest wild cat species? A. Lion. B. Jaguar. C. Tiger. D. Cheetah.",
+   "answer_speech": "C is correct, the tiger."
+  },
+  {
+   "n": 11,
+   "question": "How many legs does an insect have?",
+   "options": [
+    "Six",
+    "Eight",
+    "Four",
+    "Ten"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question eleven. How many legs does an insect have? A. Six. B. Eight. C. Four. D. Ten.",
+   "answer_speech": "A is correct, six."
+  },
+  {
+   "n": 12,
+   "question": "Which is the largest species of penguin?",
+   "options": [
+    "King penguin",
+    "Emperor penguin",
+    "Adelie penguin",
+    "Little penguin"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question twelve. Which is the largest species of penguin? A. King penguin. B. Emperor penguin. C. Adelie penguin. D. Little penguin.",
+   "answer_speech": "B is correct, the emperor penguin."
+  },
+  {
+   "n": 13,
+   "question": "Which is the largest rodent in the world?",
+   "options": [
+    "Beaver",
+    "Porcupine",
+    "Capybara",
+    "Squirrel"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question thirteen. Which is the largest rodent in the world? A. Beaver. B. Porcupine. C. Capybara. D. Squirrel.",
+   "answer_speech": "C is correct, the capybara."
+  },
+  {
+   "n": 14,
+   "question": "Which is the largest living reptile?",
+   "options": [
+    "Komodo dragon",
+    "Saltwater crocodile",
+    "Anaconda",
+    "Nile crocodile"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fourteen. Which is the largest living reptile? A. Komodo dragon. B. Saltwater crocodile. C. Anaconda. D. Nile crocodile.",
+   "answer_speech": "B is correct, the saltwater crocodile."
+  },
+  {
+   "n": 15,
+   "question": "How many humps does a Bactrian camel have?",
+   "options": [
+    "One",
+    "Three",
+    "Four",
+    "Two"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question fifteen. How many humps does a Bactrian camel have? A. One. B. Three. C. Four. D. Two.",
+   "answer_speech": "D is correct, two."
+  }
+ ],
+ "clips": [
+  {
+   "id": "v02_q01",
+   "text": "Question one. Which is the fastest land animal? A. Lion. B. Cheetah. C. Horse. D. Leopard."
+  },
+  {
+   "id": "v02_q02",
+   "text": "Question two. How many legs does a spider have? A. Six. B. Eight. C. Ten. D. Four."
+  },
+  {
+   "id": "v02_q03",
+   "text": "Question three. What do giant pandas mostly eat? A. Fish. B. Bamboo. C. Berries. D. Insects."
+  },
+  {
+   "id": "v02_q04",
+   "text": "Question four. Which is the largest living bird? A. Eagle. B. Albatross. C. Emu. D. Ostrich."
+  },
+  {
+   "id": "v02_q05",
+   "text": "Question five. What is a baby kangaroo called? A. Joey. B. Cub. C. Pup. D. Kit."
+  },
+  {
+   "id": "v02_q06",
+   "text": "Question six. Which is the only mammal that can truly fly? A. Flying squirrel. B. Bat. C. Sugar glider. D. Penguin."
+  },
+  {
+   "id": "v02_q07",
+   "text": "Question seven. Which animal is the tallest in the world? A. Elephant. B. Camel. C. Giraffe. D. Moose."
+  },
+  {
+   "id": "v02_q08",
+   "text": "Question eight. What is a group of lions called? A. A pack. B. A herd. C. A flock. D. A pride."
+  },
+  {
+   "id": "v02_q09",
+   "text": "Question nine. Which insect makes honey? A. Wasp. B. Honeybee. C. Ant. D. Butterfly."
+  },
+  {
+   "id": "v02_q10",
+   "text": "Question ten. Which is the largest wild cat species? A. Lion. B. Jaguar. C. Tiger. D. Cheetah."
+  },
+  {
+   "id": "v02_q11",
+   "text": "Question eleven. How many legs does an insect have? A. Six. B. Eight. C. Four. D. Ten."
+  },
+  {
+   "id": "v02_q12",
+   "text": "Question twelve. Which is the largest species of penguin? A. King penguin. B. Emperor penguin. C. Adelie penguin. D. Little penguin."
+  },
+  {
+   "id": "v02_q13",
+   "text": "Question thirteen. Which is the largest rodent in the world? A. Beaver. B. Porcupine. C. Capybara. D. Squirrel."
+  },
+  {
+   "id": "v02_q14",
+   "text": "Question fourteen. Which is the largest living reptile? A. Komodo dragon. B. Saltwater crocodile. C. Anaconda. D. Nile crocodile."
+  },
+  {
+   "id": "v02_q15",
+   "text": "Question fifteen. How many humps does a Bactrian camel have? A. One. B. Three. C. Four. D. Two."
+  },
+  {
+   "id": "v02_a01",
+   "text": "B is correct, the cheetah."
+  },
+  {
+   "id": "v02_a02",
+   "text": "B is correct, eight."
+  },
+  {
+   "id": "v02_a03",
+   "text": "B is correct, bamboo."
+  },
+  {
+   "id": "v02_a04",
+   "text": "D is correct, the ostrich."
+  },
+  {
+   "id": "v02_a05",
+   "text": "A is correct, a joey."
+  },
+  {
+   "id": "v02_a06",
+   "text": "B is correct, the bat."
+  },
+  {
+   "id": "v02_a07",
+   "text": "C is correct, the giraffe."
+  },
+  {
+   "id": "v02_a08",
+   "text": "D is correct, a pride."
+  },
+  {
+   "id": "v02_a09",
+   "text": "B is correct, the honeybee."
+  },
+  {
+   "id": "v02_a10",
+   "text": "C is correct, the tiger."
+  },
+  {
+   "id": "v02_a11",
+   "text": "A is correct, six."
+  },
+  {
+   "id": "v02_a12",
+   "text": "B is correct, the emperor penguin."
+  },
+  {
+   "id": "v02_a13",
+   "text": "C is correct, the capybara."
+  },
+  {
+   "id": "v02_a14",
+   "text": "B is correct, the saltwater crocodile."
+  },
+  {
+   "id": "v02_a15",
+   "text": "D is correct, two."
+  }
+ ]
+}

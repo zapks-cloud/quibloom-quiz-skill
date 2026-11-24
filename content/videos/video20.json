@@ -1,0 +1,233 @@
+{
+ "video": 20,
+ "topic": "Plants and trees",
+ "category": "PLANTS",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "Which gas do plants take in from the air for photosynthesis?",
+   "options": [
+    "Oxygen",
+    "Carbon dioxide",
+    "Nitrogen",
+    "Helium"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question one. Which gas do plants take in from the air for photosynthesis? A. Oxygen. B. Carbon dioxide. C. Nitrogen. D. Helium.",
+   "answer_speech": "B is correct, Carbon dioxide.",
+   "source": "https://en.wikipedia.org/wiki/Photosynthesis"
+  },
+  {
+   "n": 2,
+   "question": "Which part of a plant absorbs water from the soil?",
+   "options": [
+    "The stem",
+    "The leaves",
+    "The petals",
+    "The roots"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question two. Which part of a plant absorbs water from the soil? A. The stem. B. The leaves. C. The petals. D. The roots.",
+   "answer_speech": "D is correct, The roots.",
+   "source": "https://en.wikipedia.org/wiki/Root"
+  },
+  {
+   "n": 3,
+   "question": "Which tree species is the tallest in the world?",
+   "options": [
+    "Coast redwood",
+    "Baobab",
+    "Oak",
+    "Pine"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question three. Which tree species is the tallest in the world? A. Coast redwood. B. Baobab. C. Oak. D. Pine.",
+   "answer_speech": "A is correct, Coast redwood.",
+   "source": "https://en.wikipedia.org/wiki/Sequoia_sempervirens"
+  },
+  {
+   "n": 4,
+   "question": "Which plant produces the largest single flower in the world?",
+   "options": [
+    "Lotus",
+    "Rafflesia",
+    "Sunflower",
+    "Orchid"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question four. Which plant produces the largest single flower in the world? A. Lotus. B. Rafflesia. C. Sunflower. D. Orchid.",
+   "answer_speech": "B is correct, Rafflesia.",
+   "source": "https://en.wikipedia.org/wiki/Rafflesia_arnoldii"
+  },
+  {
+   "n": 5,
+   "question": "What is the green pigment in plant leaves called?",
+   "options": [
+    "Melanin",
+    "Keratin",
+    "Hemoglobin",
+    "Chlorophyll"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question five. What is the green pigment in plant leaves called? A. Melanin. B. Keratin. C. Hemoglobin. D. Chlorophyll.",
+   "answer_speech": "D is correct, Chlorophyll.",
+   "source": "https://en.wikipedia.org/wiki/Chlorophyll"
+  },
+  {
+   "n": 6,
+   "question": "Which tree produces dates?",
+   "options": [
+    "The olive tree",
+    "The fig tree",
+    "The date palm",
+    "The pine tree"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question six. Which tree produces dates? A. The olive tree. B. The fig tree. C. The date palm. D. The pine tree.",
+   "answer_speech": "C is correct, The date palm.",
+   "source": "https://en.wikipedia.org/wiki/Date_palm"
+  },
+  {
+   "n": 7,
+   "question": "Which plant group includes some of the fastest-growing plants, up to about a meter a day?",
+   "options": [
+    "Bamboo",
+    "Fern",
+    "Moss",
+    "Cactus"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question seven. Which plant group includes some of the fastest-growing plants, up to about a meter a day? A. Bamboo. B. Fern. C. Moss. D. Cactus.",
+   "answer_speech": "A is correct, Bamboo.",
+   "source": "https://en.wikipedia.org/wiki/Bamboo"
+  },
+  {
+   "n": 8,
+   "question": "Acorns are the fruit of which tree?",
+   "options": [
+    "Willow",
+    "Birch",
+    "Maple",
+    "Oak"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eight. Acorns are the fruit of which tree? A. Willow. B. Birch. C. Maple. D. Oak.",
+   "answer_speech": "D is correct, Oak.",
+   "source": "https://en.wikipedia.org/wiki/Acorn"
+  },
+  {
+   "n": 9,
+   "question": "What does a Venus flytrap mostly catch and digest?",
+   "options": [
+    "Birds",
+    "Insects",
+    "Seeds",
+    "Fish"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question nine. What does a Venus flytrap mostly catch and digest? A. Birds. B. Insects. C. Seeds. D. Fish.",
+   "answer_speech": "B is correct, Insects.",
+   "source": "https://en.wikipedia.org/wiki/Venus_flytrap"
+  },
+  {
+   "n": 10,
+   "question": "From which tree is maple syrup mainly made?",
+   "options": [
+    "Elm",
+    "Birch",
+    "Sugar maple",
+    "Cedar"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question ten. From which tree is maple syrup mainly made? A. Elm. B. Birch. C. Sugar maple. D. Cedar.",
+   "answer_speech": "C is correct, Sugar maple.",
+   "source": "https://en.wikipedia.org/wiki/Maple_syrup"
+  },
+  {
+   "n": 11,
+   "question": "Which part of a flowering plant produces seeds?",
+   "options": [
+    "The bark",
+    "The flower",
+    "The stem",
+    "The root"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. Which part of a flowering plant produces seeds? A. The bark. B. The flower. C. The stem. D. The root.",
+   "answer_speech": "B is correct, The flower.",
+   "source": "https://en.wikipedia.org/wiki/Flower"
+  },
+  {
+   "n": 12,
+   "question": "Cacti survive in deserts mainly by doing what?",
+   "options": [
+    "Drinking dew with leaves",
+    "Living underground",
+    "Storing water in their stems",
+    "Growing very tall"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question twelve. Cacti survive in deserts mainly by doing what? A. Drinking dew with leaves. B. Living underground. C. Storing water in their stems. D. Growing very tall.",
+   "answer_speech": "C is correct, Storing water in their stems.",
+   "source": "https://en.wikipedia.org/wiki/Cactus"
+  },
+  {
+   "n": 13,
+   "question": "Which spice comes from the dried stigmas of a crocus flower?",
+   "options": [
+    "Turmeric",
+    "Cumin",
+    "Paprika",
+    "Saffron"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question thirteen. Which spice comes from the dried stigmas of a crocus flower? A. Turmeric. B. Cumin. C. Paprika. D. Saffron.",
+   "answer_speech": "D is correct, Saffron.",
+   "source": "https://en.wikipedia.org/wiki/Saffron"
+  },
+  {
+   "n": 14,
+   "question": "Which tree is the source of olive oil?",
+   "options": [
+    "The olive tree",
+    "The almond tree",
+    "The walnut tree",
+    "The palm tree"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question fourteen. Which tree is the source of olive oil? A. The olive tree. B. The almond tree. C. The walnut tree. D. The palm tree.",
+   "answer_speech": "A is correct, The olive tree.",
+   "source": "https://en.wikipedia.org/wiki/Olive_oil"
+  },
+  {
+   "n": 15,
+   "question": "What is the process of plants releasing water vapor from their leaves called?",
+   "options": [
+    "Respiration",
+    "Germination",
+    "Transpiration",
+    "Pollination"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fifteen. What is the process of plants releasing water vapor from their leaves called? A. Respiration. B. Germination. C. Transpiration. D. Pollination.",
+   "answer_speech": "C is correct, Transpiration.",
+   "source": "https://en.wikipedia.org/wiki/Transpiration"
+  }
+ ]
+}

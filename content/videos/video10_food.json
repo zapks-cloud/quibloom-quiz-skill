@@ -1,0 +1,347 @@
+{
+ "video": 10,
+ "topic": "Food and culture",
+ "category": "FOOD",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "sources": [
+  "https://www.kikkoman.com/en/cookbook/glossary/tofu.html",
+  "https://www.kew.org/plants/cacao-tree",
+  "https://www.seriouseats.com/marzipan-history-what-is-it-almonds",
+  "https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602",
+  "https://www.incredibleindia.gov.in/en/festivals-and-events/diwali"
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "question": "Which country is sushi from?",
+   "options": [
+    "Japan",
+    "China",
+    "Korea",
+    "Thailand"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question one. Which country is sushi from? A. Japan. B. China. C. Korea. D. Thailand.",
+   "answer_speech": "A is correct, Japan."
+  },
+  {
+   "n": 2,
+   "question": "What is the main ingredient of guacamole?",
+   "options": [
+    "Tomato",
+    "Avocado",
+    "Cucumber",
+    "Pea"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question two. What is the main ingredient of guacamole? A. Tomato. B. Avocado. C. Cucumber. D. Pea.",
+   "answer_speech": "B is correct, avocado."
+  },
+  {
+   "n": 3,
+   "question": "Which country is pizza originally from?",
+   "options": [
+    "Greece",
+    "Spain",
+    "Italy",
+    "France"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question three. Which country is pizza originally from? A. Greece. B. Spain. C. Italy. D. France.",
+   "answer_speech": "C is correct, Italy."
+  },
+  {
+   "n": 4,
+   "question": "What is tofu made from?",
+   "options": [
+    "Rice",
+    "Wheat",
+    "Corn",
+    "Soybeans"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question four. What is tofu made from? A. Rice. B. Wheat. C. Corn. D. Soybeans.",
+   "answer_speech": "D is correct, soybeans."
+  },
+  {
+   "n": 5,
+   "question": "Which spice is known as the most expensive in the world by weight?",
+   "options": [
+    "Saffron",
+    "Cinnamon",
+    "Pepper",
+    "Cumin"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question five. Which spice is known as the most expensive in the world by weight? A. Saffron. B. Cinnamon. C. Pepper. D. Cumin.",
+   "answer_speech": "A is correct, saffron."
+  },
+  {
+   "n": 6,
+   "question": "Which traditional Moroccan dish is made from steamed semolina?",
+   "options": [
+    "Paella",
+    "Couscous",
+    "Risotto",
+    "Lasagna"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question six. Which traditional Moroccan dish is made from steamed semolina? A. Paella. B. Couscous. C. Risotto. D. Lasagna.",
+   "answer_speech": "B is correct, couscous."
+  },
+  {
+   "n": 7,
+   "question": "What is hummus mainly made from?",
+   "options": [
+    "Lentils",
+    "Beans",
+    "Chickpeas",
+    "Peanuts"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question seven. What is hummus mainly made from? A. Lentils. B. Beans. C. Chickpeas. D. Peanuts.",
+   "answer_speech": "C is correct, chickpeas."
+  },
+  {
+   "n": 8,
+   "question": "Chocolate is made from the seeds of which tree?",
+   "options": [
+    "Coffee tree",
+    "Cacao tree",
+    "Palm tree",
+    "Olive tree"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eight. Chocolate is made from the seeds of which tree? A. Coffee tree. B. Cacao tree. C. Palm tree. D. Olive tree.",
+   "answer_speech": "B is correct, the cacao tree."
+  },
+  {
+   "n": 9,
+   "question": "Which fruit is dried to make raisins?",
+   "options": [
+    "Plums",
+    "Figs",
+    "Dates",
+    "Grapes"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question nine. Which fruit is dried to make raisins? A. Plums. B. Figs. C. Dates. D. Grapes.",
+   "answer_speech": "D is correct, grapes."
+  },
+  {
+   "n": 10,
+   "question": "Which nut is the main ingredient of marzipan?",
+   "options": [
+    "Almond",
+    "Walnut",
+    "Peanut",
+    "Cashew"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question ten. Which nut is the main ingredient of marzipan? A. Almond. B. Walnut. C. Peanut. D. Cashew.",
+   "answer_speech": "A is correct, almond."
+  },
+  {
+   "n": 11,
+   "question": "Which country is famous for tacos?",
+   "options": [
+    "Brazil",
+    "Mexico",
+    "Peru",
+    "Argentina"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. Which country is famous for tacos? A. Brazil. B. Mexico. C. Peru. D. Argentina.",
+   "answer_speech": "B is correct, Mexico."
+  },
+  {
+   "n": 12,
+   "question": "Which grain is the main ingredient of paella?",
+   "options": [
+    "Wheat",
+    "Barley",
+    "Rice",
+    "Oats"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question twelve. Which grain is the main ingredient of paella? A. Wheat. B. Barley. C. Rice. D. Oats.",
+   "answer_speech": "C is correct, rice."
+  },
+  {
+   "n": 13,
+   "question": "Which country is famous for the Carnival in Rio?",
+   "options": [
+    "Brazil",
+    "Portugal",
+    "Chile",
+    "Colombia"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question thirteen. Which country is famous for the Carnival in Rio? A. Brazil. B. Portugal. C. Chile. D. Colombia.",
+   "answer_speech": "A is correct, Brazil."
+  },
+  {
+   "n": 14,
+   "question": "Which instrument has black and white keys?",
+   "options": [
+    "Guitar",
+    "Piano",
+    "Violin",
+    "Flute"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fourteen. Which instrument has black and white keys? A. Guitar. B. Piano. C. Violin. D. Flute.",
+   "answer_speech": "B is correct, the piano."
+  },
+  {
+   "n": 15,
+   "question": "Which country celebrates the festival of Diwali?",
+   "options": [
+    "Japan",
+    "Egypt",
+    "India",
+    "Mexico"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fifteen. Which country celebrates the festival of Diwali? A. Japan. B. Egypt. C. India. D. Mexico.",
+   "answer_speech": "C is correct, India."
+  }
+ ],
+ "clips": [
+  {
+   "id": "v10_q01",
+   "text": "Question one. Which country is sushi from? A. Japan. B. China. C. Korea. D. Thailand."
+  },
+  {
+   "id": "v10_q02",
+   "text": "Question two. What is the main ingredient of guacamole? A. Tomato. B. Avocado. C. Cucumber. D. Pea."
+  },
+  {
+   "id": "v10_q03",
+   "text": "Question three. Which country is pizza originally from? A. Greece. B. Spain. C. Italy. D. France."
+  },
+  {
+   "id": "v10_q04",
+   "text": "Question four. What is tofu made from? A. Rice. B. Wheat. C. Corn. D. Soybeans."
+  },
+  {
+   "id": "v10_q05",
+   "text": "Question five. Which spice is known as the most expensive in the world by weight? A. Saffron. B. Cinnamon. C. Pepper. D. Cumin."
+  },
+  {
+   "id": "v10_q06",
+   "text": "Question six. Which traditional Moroccan dish is made from steamed semolina? A. Paella. B. Couscous. C. Risotto. D. Lasagna."
+  },
+  {
+   "id": "v10_q07",
+   "text": "Question seven. What is hummus mainly made from? A. Lentils. B. Beans. C. Chickpeas. D. Peanuts."
+  },
+  {
+   "id": "v10_q08",
+   "text": "Question eight. Chocolate is made from the seeds of which tree? A. Coffee tree. B. Cacao tree. C. Palm tree. D. Olive tree."
+  },
+  {
+   "id": "v10_q09",
+   "text": "Question nine. Which fruit is dried to make raisins? A. Plums. B. Figs. C. Dates. D. Grapes."
+  },
+  {
+   "id": "v10_q10",
+   "text": "Question ten. Which nut is the main ingredient of marzipan? A. Almond. B. Walnut. C. Peanut. D. Cashew."
+  },
+  {
+   "id": "v10_q11",
+   "text": "Question eleven. Which country is famous for tacos? A. Brazil. B. Mexico. C. Peru. D. Argentina."
+  },
+  {
+   "id": "v10_q12",
+   "text": "Question twelve. Which grain is the main ingredient of paella? A. Wheat. B. Barley. C. Rice. D. Oats."
+  },
+  {
+   "id": "v10_q13",
+   "text": "Question thirteen. Which country is famous for the Carnival in Rio? A. Brazil. B. Portugal. C. Chile. D. Colombia."
+  },
+  {
+   "id": "v10_q14",
+   "text": "Question fourteen. Which instrument has black and white keys? A. Guitar. B. Piano. C. Violin. D. Flute."
+  },
+  {
+   "id": "v10_q15",
+   "text": "Question fifteen. Which country celebrates the festival of Diwali? A. Japan. B. Egypt. C. India. D. Mexico."
+  },
+  {
+   "id": "v10_a01",
+   "text": "A is correct, Japan."
+  },
+  {
+   "id": "v10_a02",
+   "text": "B is correct, avocado."
+  },
+  {
+   "id": "v10_a03",
+   "text": "C is correct, Italy."
+  },
+  {
+   "id": "v10_a04",
+   "text": "D is correct, soybeans."
+  },
+  {
+   "id": "v10_a05",
+   "text": "A is correct, saffron."
+  },
+  {
+   "id": "v10_a06",
+   "text": "B is correct, couscous."
+  },
+  {
+   "id": "v10_a07",
+   "text": "C is correct, chickpeas."
+  },
+  {
+   "id": "v10_a08",
+   "text": "B is correct, the cacao tree."
+  },
+  {
+   "id": "v10_a09",
+   "text": "D is correct, grapes."
+  },
+  {
+   "id": "v10_a10",
+   "text": "A is correct, almond."
+  },
+  {
+   "id": "v10_a11",
+   "text": "B is correct, Mexico."
+  },
+  {
+   "id": "v10_a12",
+   "text": "C is correct, rice."
+  },
+  {
+   "id": "v10_a13",
+   "text": "A is correct, Brazil."
+  },
+  {
+   "id": "v10_a14",
+   "text": "B is correct, the piano."
+  },
+  {
+   "id": "v10_a15",
+   "text": "C is correct, India."
+  }
+ ]
+}

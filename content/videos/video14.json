@@ -1,0 +1,233 @@
+{
+ "video": 14,
+ "topic": "Famous landmarks",
+ "category": "LANDMARKS",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "In which city is the Eiffel Tower?",
+   "options": [
+    "Lyon",
+    "Rome",
+    "Paris",
+    "Brussels"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question one. In which city is the Eiffel Tower? A. Lyon. B. Rome. C. Paris. D. Brussels.",
+   "answer_speech": "C is correct, Paris.",
+   "source": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+  },
+  {
+   "n": 2,
+   "question": "Which city is home to the Hassan II Mosque?",
+   "options": [
+    "Marrakech",
+    "Casablanca",
+    "Fez",
+    "Tangier"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question two. Which city is home to the Hassan II Mosque? A. Marrakech. B. Casablanca. C. Fez. D. Tangier.",
+   "answer_speech": "B is correct, Casablanca.",
+   "source": "https://en.wikipedia.org/wiki/Hassan_II_Mosque"
+  },
+  {
+   "n": 3,
+   "question": "In which Indian city is the Taj Mahal?",
+   "options": [
+    "Jaipur",
+    "Delhi",
+    "Agra",
+    "Mumbai"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question three. In which Indian city is the Taj Mahal? A. Jaipur. B. Delhi. C. Agra. D. Mumbai.",
+   "answer_speech": "C is correct, Agra.",
+   "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  {
+   "n": 4,
+   "question": "In which city is the Colosseum?",
+   "options": [
+    "Athens",
+    "Naples",
+    "Milan",
+    "Rome"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question four. In which city is the Colosseum? A. Athens. B. Naples. C. Milan. D. Rome.",
+   "answer_speech": "D is correct, Rome.",
+   "source": "https://en.wikipedia.org/wiki/Colosseum"
+  },
+  {
+   "n": 5,
+   "question": "Which country gave the Statue of Liberty to the United States?",
+   "options": [
+    "France",
+    "Italy",
+    "England",
+    "Spain"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question five. Which country gave the Statue of Liberty to the United States? A. France. B. Italy. C. England. D. Spain.",
+   "answer_speech": "A is correct, France.",
+   "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+  },
+  {
+   "n": 6,
+   "question": "Machu Picchu is an ancient city in which country?",
+   "options": [
+    "Mexico",
+    "Bolivia",
+    "Peru",
+    "Chile"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question six. Machu Picchu is an ancient city in which country? A. Mexico. B. Bolivia. C. Peru. D. Chile.",
+   "answer_speech": "C is correct, Peru.",
+   "source": "https://en.wikipedia.org/wiki/Machu_Picchu"
+  },
+  {
+   "n": 7,
+   "question": "In which city is Big Ben?",
+   "options": [
+    "Edinburgh",
+    "London",
+    "Dublin",
+    "Manchester"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question seven. In which city is Big Ben? A. Edinburgh. B. London. C. Dublin. D. Manchester.",
+   "answer_speech": "B is correct, London.",
+   "source": "https://en.wikipedia.org/wiki/Big_Ben"
+  },
+  {
+   "n": 8,
+   "question": "In which city does the Christ the Redeemer statue stand?",
+   "options": [
+    "Buenos Aires",
+    "Sao Paulo",
+    "Lima",
+    "Rio de Janeiro"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eight. In which city does the Christ the Redeemer statue stand? A. Buenos Aires. B. Sao Paulo. C. Lima. D. Rio de Janeiro.",
+   "answer_speech": "D is correct, Rio de Janeiro.",
+   "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)"
+  },
+  {
+   "n": 9,
+   "question": "In which country are the Pyramids of Giza?",
+   "options": [
+    "Egypt",
+    "Sudan",
+    "Iraq",
+    "Morocco"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question nine. In which country are the Pyramids of Giza? A. Egypt. B. Sudan. C. Iraq. D. Morocco.",
+   "answer_speech": "A is correct, Egypt.",
+   "source": "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+  },
+  {
+   "n": 10,
+   "question": "The Sydney Opera House is in which country?",
+   "options": [
+    "South Africa",
+    "Australia",
+    "New Zealand",
+    "Canada"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question ten. The Sydney Opera House is in which country? A. South Africa. B. Australia. C. New Zealand. D. Canada.",
+   "answer_speech": "B is correct, Australia.",
+   "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  },
+  {
+   "n": 11,
+   "question": "Which city is home to the Burj Khalifa?",
+   "options": [
+    "Doha",
+    "Cairo",
+    "Riyadh",
+    "Dubai"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eleven. Which city is home to the Burj Khalifa? A. Doha. B. Cairo. C. Riyadh. D. Dubai.",
+   "answer_speech": "D is correct, Dubai.",
+   "source": "https://en.wikipedia.org/wiki/Burj_Khalifa"
+  },
+  {
+   "n": 12,
+   "question": "The ancient rose-red city of Petra is in which country?",
+   "options": [
+    "Syria",
+    "Turkey",
+    "Jordan",
+    "Lebanon"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question twelve. The ancient rose-red city of Petra is in which country? A. Syria. B. Turkey. C. Jordan. D. Lebanon.",
+   "answer_speech": "C is correct, Jordan.",
+   "source": "https://en.wikipedia.org/wiki/Petra"
+  },
+  {
+   "n": 13,
+   "question": "Angkor Wat is a famous temple complex in which country?",
+   "options": [
+    "Cambodia",
+    "Vietnam",
+    "Laos",
+    "Thailand"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question thirteen. Angkor Wat is a famous temple complex in which country? A. Cambodia. B. Vietnam. C. Laos. D. Thailand.",
+   "answer_speech": "A is correct, Cambodia.",
+   "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+  },
+  {
+   "n": 14,
+   "question": "The Leaning Tower of Pisa is in which country?",
+   "options": [
+    "Portugal",
+    "Greece",
+    "Spain",
+    "Italy"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question fourteen. The Leaning Tower of Pisa is in which country? A. Portugal. B. Greece. C. Spain. D. Italy.",
+   "answer_speech": "D is correct, Italy.",
+   "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+  },
+  {
+   "n": 15,
+   "question": "Mount Rushmore, with four carved presidents, is in which US state?",
+   "options": [
+    "Montana",
+    "South Dakota",
+    "Wyoming",
+    "Colorado"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fifteen. Mount Rushmore, with four carved presidents, is in which US state? A. Montana. B. South Dakota. C. Wyoming. D. Colorado.",
+   "answer_speech": "B is correct, South Dakota.",
+   "source": "https://en.wikipedia.org/wiki/Mount_Rushmore"
+  }
+ ]
+}

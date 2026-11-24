@@ -1,0 +1,233 @@
+{
+ "video": 17,
+ "topic": "Sports and Olympics",
+ "category": "SPORTS",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "How many players from one team are on the field in a soccer match?",
+   "options": [
+    "12",
+    "9",
+    "10",
+    "11"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question one. How many players from one team are on the field in a soccer match? A. 12. B. 9. C. 10. D. 11.",
+   "answer_speech": "D is correct, 11.",
+   "source": "https://en.wikipedia.org/wiki/Association_football"
+  },
+  {
+   "n": 2,
+   "question": "Which country hosted the 2016 Summer Olympics?",
+   "options": [
+    "Brazil",
+    "Japan",
+    "Greece",
+    "China"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question two. Which country hosted the 2016 Summer Olympics? A. Brazil. B. Japan. C. Greece. D. China.",
+   "answer_speech": "A is correct, Brazil.",
+   "source": "https://en.wikipedia.org/wiki/2016_Summer_Olympics"
+  },
+  {
+   "n": 3,
+   "question": "How often are the Summer Olympics held?",
+   "options": [
+    "Every year",
+    "Every two years",
+    "Every four years",
+    "Every five years"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question three. How often are the Summer Olympics held? A. Every year. B. Every two years. C. Every four years. D. Every five years.",
+   "answer_speech": "C is correct, Every four years.",
+   "source": "https://en.wikipedia.org/wiki/Summer_Olympic_Games"
+  },
+  {
+   "n": 4,
+   "question": "How many rings are on the Olympic flag?",
+   "options": [
+    "Seven",
+    "Five",
+    "Six",
+    "Four"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question four. How many rings are on the Olympic flag? A. Seven. B. Five. C. Six. D. Four.",
+   "answer_speech": "B is correct, Five.",
+   "source": "https://en.wikipedia.org/wiki/Olympic_symbols"
+  },
+  {
+   "n": 5,
+   "question": "Which African team reached the World Cup semi-finals for the first time in 2022?",
+   "options": [
+    "Ghana",
+    "Cameroon",
+    "Senegal",
+    "Morocco"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question five. Which African team reached the World Cup semi-finals for the first time in 2022? A. Ghana. B. Cameroon. C. Senegal. D. Morocco.",
+   "answer_speech": "D is correct, Morocco.",
+   "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
+  },
+  {
+   "n": 6,
+   "question": "Which country won the 2022 FIFA World Cup?",
+   "options": [
+    "Argentina",
+    "Croatia",
+    "France",
+    "Brazil"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question six. Which country won the 2022 FIFA World Cup? A. Argentina. B. Croatia. C. France. D. Brazil.",
+   "answer_speech": "A is correct, Argentina.",
+   "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
+  },
+  {
+   "n": 7,
+   "question": "About how long is a full marathon?",
+   "options": [
+    "50 kilometers",
+    "42 kilometers",
+    "32 kilometers",
+    "21 kilometers"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question seven. About how long is a full marathon? A. 50 kilometers. B. 42 kilometers. C. 32 kilometers. D. 21 kilometers.",
+   "answer_speech": "B is correct, 42 kilometers.",
+   "source": "https://en.wikipedia.org/wiki/Marathon"
+  },
+  {
+   "n": 8,
+   "question": "In which sport do players score by slam dunking?",
+   "options": [
+    "Volleyball",
+    "Netball",
+    "Handball",
+    "Basketball"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eight. In which sport do players score by slam dunking? A. Volleyball. B. Netball. C. Handball. D. Basketball.",
+   "answer_speech": "D is correct, Basketball.",
+   "source": "https://en.wikipedia.org/wiki/Slam_dunk"
+  },
+  {
+   "n": 9,
+   "question": "Which country has won the most men's soccer World Cups?",
+   "options": [
+    "Argentina",
+    "Germany",
+    "Brazil",
+    "Italy"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question nine. Which country has won the most men's soccer World Cups? A. Argentina. B. Germany. C. Brazil. D. Italy.",
+   "answer_speech": "C is correct, Brazil.",
+   "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+  },
+  {
+   "n": 10,
+   "question": "In which city were the first modern Olympic Games held in 1896?",
+   "options": [
+    "Athens",
+    "Paris",
+    "London",
+    "Rome"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question ten. In which city were the first modern Olympic Games held in 1896? A. Athens. B. Paris. C. London. D. Rome.",
+   "answer_speech": "A is correct, Athens.",
+   "source": "https://en.wikipedia.org/wiki/1896_Summer_Olympics"
+  },
+  {
+   "n": 11,
+   "question": "How many players from one team are on a basketball court at once?",
+   "options": [
+    "Four",
+    "Six",
+    "Seven",
+    "Five"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eleven. How many players from one team are on a basketball court at once? A. Four. B. Six. C. Seven. D. Five.",
+   "answer_speech": "D is correct, Five.",
+   "source": "https://en.wikipedia.org/wiki/Basketball"
+  },
+  {
+   "n": 12,
+   "question": "In which sport do athletes compete in a slalom?",
+   "options": [
+    "Cycling",
+    "Skiing",
+    "Rowing",
+    "Swimming"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question twelve. In which sport do athletes compete in a slalom? A. Cycling. B. Skiing. C. Rowing. D. Swimming.",
+   "answer_speech": "B is correct, Skiing.",
+   "source": "https://en.wikipedia.org/wiki/Slalom"
+  },
+  {
+   "n": 13,
+   "question": "Which country is the birthplace of judo?",
+   "options": [
+    "Thailand",
+    "China",
+    "Japan",
+    "Korea"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question thirteen. Which country is the birthplace of judo? A. Thailand. B. China. C. Japan. D. Korea.",
+   "answer_speech": "C is correct, Japan.",
+   "source": "https://en.wikipedia.org/wiki/Judo"
+  },
+  {
+   "n": 14,
+   "question": "What color card sends a soccer player off the field?",
+   "options": [
+    "Blue",
+    "Red",
+    "Green",
+    "Yellow"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fourteen. What color card sends a soccer player off the field? A. Blue. B. Red. C. Green. D. Yellow.",
+   "answer_speech": "B is correct, Red.",
+   "source": "https://en.wikipedia.org/wiki/Penalty_card"
+  },
+  {
+   "n": 15,
+   "question": "Which country hosted the 2022 FIFA World Cup?",
+   "options": [
+    "Morocco",
+    "Russia",
+    "Qatar",
+    "Saudi Arabia"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fifteen. Which country hosted the 2022 FIFA World Cup? A. Morocco. B. Russia. C. Qatar. D. Saudi Arabia.",
+   "answer_speech": "C is correct, Qatar.",
+   "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup"
+  }
+ ]
+}

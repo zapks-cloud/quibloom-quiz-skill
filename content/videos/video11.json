@@ -1,0 +1,233 @@
+{
+ "video": 11,
+ "topic": "Dinosaurs",
+ "category": "DINOSAURS",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "Which dinosaur's name means king of the tyrant lizards?",
+   "options": [
+    "Tyrannosaurus rex",
+    "Velociraptor",
+    "Stegosaurus",
+    "Triceratops"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question one. Which dinosaur's name means king of the tyrant lizards? A. Tyrannosaurus rex. B. Velociraptor. C. Stegosaurus. D. Triceratops.",
+   "answer_speech": "A is correct, Tyrannosaurus rex.",
+   "source": "https://en.wikipedia.org/wiki/Tyrannosaurus"
+  },
+  {
+   "n": 2,
+   "question": "How many horns did Triceratops have on its face?",
+   "options": [
+    "Four",
+    "Two",
+    "One",
+    "Three"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question two. How many horns did Triceratops have on its face? A. Four. B. Two. C. One. D. Three.",
+   "answer_speech": "D is correct, Three.",
+   "source": "https://en.wikipedia.org/wiki/Triceratops"
+  },
+  {
+   "n": 3,
+   "question": "What does the word dinosaur mean?",
+   "options": [
+    "Fierce claw",
+    "Terrible lizard",
+    "Ancient reptile",
+    "Giant bird"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question three. What does the word dinosaur mean? A. Fierce claw. B. Terrible lizard. C. Ancient reptile. D. Giant bird.",
+   "answer_speech": "B is correct, Terrible lizard.",
+   "source": "https://en.wikipedia.org/wiki/Dinosaur"
+  },
+  {
+   "n": 4,
+   "question": "Which dinosaur is known for bony back plates and a spiked tail?",
+   "options": [
+    "Diplodocus",
+    "Ankylosaurus",
+    "Stegosaurus",
+    "Brachiosaurus"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question four. Which dinosaur is known for bony back plates and a spiked tail? A. Diplodocus. B. Ankylosaurus. C. Stegosaurus. D. Brachiosaurus.",
+   "answer_speech": "C is correct, Stegosaurus.",
+   "source": "https://en.wikipedia.org/wiki/Stegosaurus"
+  },
+  {
+   "n": 5,
+   "question": "Which of these geological periods came first?",
+   "options": [
+    "Paleogene",
+    "Triassic",
+    "Cretaceous",
+    "Jurassic"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question five. Which of these geological periods came first? A. Paleogene. B. Triassic. C. Cretaceous. D. Jurassic.",
+   "answer_speech": "B is correct, Triassic.",
+   "source": "https://en.wikipedia.org/wiki/Mesozoic"
+  },
+  {
+   "n": 6,
+   "question": "Which of these was a flying reptile, not a dinosaur?",
+   "options": [
+    "Stegosaurus",
+    "Velociraptor",
+    "Pteranodon",
+    "Triceratops"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question six. Which of these was a flying reptile, not a dinosaur? A. Stegosaurus. B. Velociraptor. C. Pteranodon. D. Triceratops.",
+   "answer_speech": "C is correct, Pteranodon.",
+   "source": "https://en.wikipedia.org/wiki/Pteranodon"
+  },
+  {
+   "n": 7,
+   "question": "What do we call scientists who study fossils?",
+   "options": [
+    "Biologists",
+    "Geologists",
+    "Archaeologists",
+    "Paleontologists"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question seven. What do we call scientists who study fossils? A. Biologists. B. Geologists. C. Archaeologists. D. Paleontologists.",
+   "answer_speech": "D is correct, Paleontologists.",
+   "source": "https://en.wikipedia.org/wiki/Paleontology"
+  },
+  {
+   "n": 8,
+   "question": "Which small, fast dinosaur had a sickle-shaped claw on each foot?",
+   "options": [
+    "Velociraptor",
+    "Triceratops",
+    "Spinosaurus",
+    "Iguanodon"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question eight. Which small, fast dinosaur had a sickle-shaped claw on each foot? A. Velociraptor. B. Triceratops. C. Spinosaurus. D. Iguanodon.",
+   "answer_speech": "A is correct, Velociraptor.",
+   "source": "https://en.wikipedia.org/wiki/Velociraptor"
+  },
+  {
+   "n": 9,
+   "question": "About when did the non-bird dinosaurs go extinct?",
+   "options": [
+    "10,000 years ago",
+    "200 million years ago",
+    "66 million years ago",
+    "6 million years ago"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question nine. About when did the non-bird dinosaurs go extinct? A. 10,000 years ago. B. 200 million years ago. C. 66 million years ago. D. 6 million years ago.",
+   "answer_speech": "C is correct, 66 million years ago.",
+   "source": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event"
+  },
+  {
+   "n": 10,
+   "question": "What is widely believed to have helped cause the dinosaur extinction?",
+   "options": [
+    "A volcanic island",
+    "An asteroid impact",
+    "A giant flood",
+    "An ice age cycle"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question ten. What is widely believed to have helped cause the dinosaur extinction? A. A volcanic island. B. An asteroid impact. C. A giant flood. D. An ice age cycle.",
+   "answer_speech": "B is correct, An asteroid impact.",
+   "source": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event"
+  },
+  {
+   "n": 11,
+   "question": "Which living animals are descended from dinosaurs?",
+   "options": [
+    "Lizards",
+    "Frogs",
+    "Crocodiles",
+    "Birds"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eleven. Which living animals are descended from dinosaurs? A. Lizards. B. Frogs. C. Crocodiles. D. Birds.",
+   "answer_speech": "D is correct, Birds.",
+   "source": "https://en.wikipedia.org/wiki/Dinosaur"
+  },
+  {
+   "n": 12,
+   "question": "Where is the Chicxulub impact crater located?",
+   "options": [
+    "Mexico",
+    "Australia",
+    "Egypt",
+    "Canada"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question twelve. Where is the Chicxulub impact crater located? A. Mexico. B. Australia. C. Egypt. D. Canada.",
+   "answer_speech": "A is correct, Mexico.",
+   "source": "https://en.wikipedia.org/wiki/Chicxulub_crater"
+  },
+  {
+   "n": 13,
+   "question": "What are fossilized dinosaur droppings called?",
+   "options": [
+    "Gastroliths",
+    "Coprolites",
+    "Trilobites",
+    "Amber"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question thirteen. What are fossilized dinosaur droppings called? A. Gastroliths. B. Coprolites. C. Trilobites. D. Amber.",
+   "answer_speech": "B is correct, Coprolites.",
+   "source": "https://en.wikipedia.org/wiki/Coprolite"
+  },
+  {
+   "n": 14,
+   "question": "Which giant long-necked dinosaur is among the largest land animals ever known?",
+   "options": [
+    "Gallimimus",
+    "Compsognathus",
+    "Ankylosaurus",
+    "Argentinosaurus"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question fourteen. Which giant long-necked dinosaur is among the largest land animals ever known? A. Gallimimus. B. Compsognathus. C. Ankylosaurus. D. Argentinosaurus.",
+   "answer_speech": "D is correct, Argentinosaurus.",
+   "source": "https://en.wikipedia.org/wiki/Argentinosaurus"
+  },
+  {
+   "n": 15,
+   "question": "How did dinosaurs reproduce?",
+   "options": [
+    "By splitting",
+    "By live birth",
+    "By laying eggs",
+    "By budding"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fifteen. How did dinosaurs reproduce? A. By splitting. B. By live birth. C. By laying eggs. D. By budding.",
+   "answer_speech": "C is correct, By laying eggs.",
+   "source": "https://en.wikipedia.org/wiki/Dinosaur_egg"
+  }
+ ]
+}

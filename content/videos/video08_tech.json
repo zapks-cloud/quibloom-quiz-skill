@@ -1,0 +1,349 @@
+{
+ "video": 8,
+ "topic": "Inventions and technology",
+ "category": "TECH",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "sources": [
+  "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+  "https://www.gutenberg-gesellschaft.de/en/johannes-gutenberg/gutenbergs-invention/seite",
+  "https://www.airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk",
+  "https://geodesy.noaa.gov/INFO/facts/gps.shtml",
+  "https://www.sciencehistory.org/education/scientific-biographies/alexander-fleming/",
+  "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197681/sputnik-i/",
+  "https://patents.google.com/patent/US174465A/en"
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "question": "Who is credited with inventing the World Wide Web?",
+   "options": [
+    "Bill Gates",
+    "Steve Jobs",
+    "Tim Berners-Lee",
+    "Mark Zuckerberg"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question one. Who is credited with inventing the World Wide Web? A. Bill Gates. B. Steve Jobs. C. Tim Berners-Lee. D. Mark Zuckerberg.",
+   "answer_speech": "C is correct, Tim Berners-Lee."
+  },
+  {
+   "n": 2,
+   "question": "What does CPU stand for?",
+   "options": [
+    "Central Processing Unit",
+    "Computer Power Unit",
+    "Central Program Utility",
+    "Core Processing Unit"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question two. What does CPU stand for? A. Central Processing Unit. B. Computer Power Unit. C. Central Program Utility. D. Core Processing Unit.",
+   "answer_speech": "A is correct, Central Processing Unit."
+  },
+  {
+   "n": 3,
+   "question": "What does USB stand for?",
+   "options": [
+    "Universal Serial Bus",
+    "United System Board",
+    "Unified Signal Box",
+    "Universal Storage Base"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question three. What does USB stand for? A. Universal Serial Bus. B. United System Board. C. Unified Signal Box. D. Universal Storage Base.",
+   "answer_speech": "A is correct, Universal Serial Bus."
+  },
+  {
+   "n": 4,
+   "question": "Which company created the iPhone?",
+   "options": [
+    "Samsung",
+    "Apple",
+    "Google",
+    "Nokia"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question four. Which company created the iPhone? A. Samsung. B. Apple. C. Google. D. Nokia.",
+   "answer_speech": "B is correct, Apple."
+  },
+  {
+   "n": 5,
+   "question": "Who invented the movable type printing press in Europe?",
+   "options": [
+    "Leonardo da Vinci",
+    "Isaac Newton",
+    "Johannes Gutenberg",
+    "Galileo"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question five. Who invented the movable type printing press in Europe? A. Leonardo da Vinci. B. Isaac Newton. C. Johannes Gutenberg. D. Galileo.",
+   "answer_speech": "C is correct, Johannes Gutenberg."
+  },
+  {
+   "n": 6,
+   "question": "Which number system do computers use?",
+   "options": [
+    "Decimal",
+    "Roman",
+    "Hexagonal",
+    "Binary"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question six. Which number system do computers use? A. Decimal. B. Roman. C. Hexagonal. D. Binary.",
+   "answer_speech": "D is correct, binary."
+  },
+  {
+   "n": 7,
+   "question": "Who made the first successful powered airplane flight in 1903?",
+   "options": [
+    "The Wright brothers",
+    "The Montgolfier brothers",
+    "Charles Lindbergh",
+    "Amelia Earhart"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question seven. Who made the first successful powered airplane flight in 1903? A. The Wright brothers. B. The Montgolfier brothers. C. Charles Lindbergh. D. Amelia Earhart.",
+   "answer_speech": "A is correct, the Wright brothers."
+  },
+  {
+   "n": 8,
+   "question": "What does GPS stand for?",
+   "options": [
+    "General Position System",
+    "Global Positioning System",
+    "Great Path Sensor",
+    "Global Planet Signal"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eight. What does GPS stand for? A. General Position System. B. Global Positioning System. C. Great Path Sensor. D. Global Planet Signal.",
+   "answer_speech": "B is correct, Global Positioning System."
+  },
+  {
+   "n": 9,
+   "question": "Who discovered penicillin?",
+   "options": [
+    "Louis Pasteur",
+    "Marie Curie",
+    "Alexander Fleming",
+    "Edward Jenner"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question nine. Who discovered penicillin? A. Louis Pasteur. B. Marie Curie. C. Alexander Fleming. D. Edward Jenner.",
+   "answer_speech": "C is correct, Alexander Fleming."
+  },
+  {
+   "n": 10,
+   "question": "What does AI stand for?",
+   "options": [
+    "Artificial Intelligence",
+    "Automatic Internet",
+    "Advanced Input",
+    "Applied Interface"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question ten. What does AI stand for? A. Artificial Intelligence. B. Automatic Internet. C. Advanced Input. D. Applied Interface.",
+   "answer_speech": "A is correct, Artificial Intelligence."
+  },
+  {
+   "n": 11,
+   "question": "What was the name of the first artificial satellite launched in 1957?",
+   "options": [
+    "Explorer One",
+    "Apollo",
+    "Sputnik One",
+    "Vostok"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question eleven. What was the name of the first artificial satellite launched in 1957? A. Explorer One. B. Apollo. C. Sputnik One. D. Vostok.",
+   "answer_speech": "C is correct, Sputnik One."
+  },
+  {
+   "n": 12,
+   "question": "What does RAM stand for in a computer?",
+   "options": [
+    "Read Any Memory",
+    "Random Access Memory",
+    "Rapid Active Module",
+    "Run All Memory"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question twelve. What does RAM stand for in a computer? A. Read Any Memory. B. Random Access Memory. C. Rapid Active Module. D. Run All Memory.",
+   "answer_speech": "B is correct, Random Access Memory."
+  },
+  {
+   "n": 13,
+   "question": "What does PDF stand for?",
+   "options": [
+    "Portable Document Format",
+    "Printed Data File",
+    "Personal Document Folder",
+    "Public Data Format"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question thirteen. What does PDF stand for? A. Portable Document Format. B. Printed Data File. C. Personal Document Folder. D. Public Data Format.",
+   "answer_speech": "A is correct, Portable Document Format."
+  },
+  {
+   "n": 14,
+   "question": "Who is credited with patenting the first practical telephone in 1876?",
+   "options": [
+    "Thomas Edison",
+    "Nikola Tesla",
+    "Alexander Graham Bell",
+    "Guglielmo Marconi"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fourteen. Who is credited with patenting the first practical telephone in 1876? A. Thomas Edison. B. Nikola Tesla. C. Alexander Graham Bell. D. Guglielmo Marconi.",
+   "answer_speech": "C is correct, Alexander Graham Bell."
+  },
+  {
+   "n": 15,
+   "question": "What does Wi-Fi allow devices to do?",
+   "options": [
+    "Charge wirelessly",
+    "Connect to a network wirelessly",
+    "Print in color",
+    "Store data offline"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fifteen. What does Wi-Fi allow devices to do? A. Charge wirelessly. B. Connect to a network wirelessly. C. Print in color. D. Store data offline.",
+   "answer_speech": "B is correct, connect to a network wirelessly."
+  }
+ ],
+ "clips": [
+  {
+   "id": "v08_q01",
+   "text": "Question one. Who is credited with inventing the World Wide Web? A. Bill Gates. B. Steve Jobs. C. Tim Berners-Lee. D. Mark Zuckerberg."
+  },
+  {
+   "id": "v08_q02",
+   "text": "Question two. What does CPU stand for? A. Central Processing Unit. B. Computer Power Unit. C. Central Program Utility. D. Core Processing Unit."
+  },
+  {
+   "id": "v08_q03",
+   "text": "Question three. What does USB stand for? A. Universal Serial Bus. B. United System Board. C. Unified Signal Box. D. Universal Storage Base."
+  },
+  {
+   "id": "v08_q04",
+   "text": "Question four. Which company created the iPhone? A. Samsung. B. Apple. C. Google. D. Nokia."
+  },
+  {
+   "id": "v08_q05",
+   "text": "Question five. Who invented the movable type printing press in Europe? A. Leonardo da Vinci. B. Isaac Newton. C. Johannes Gutenberg. D. Galileo."
+  },
+  {
+   "id": "v08_q06",
+   "text": "Question six. Which number system do computers use? A. Decimal. B. Roman. C. Hexagonal. D. Binary."
+  },
+  {
+   "id": "v08_q07",
+   "text": "Question seven. Who made the first successful powered airplane flight in 1903? A. The Wright brothers. B. The Montgolfier brothers. C. Charles Lindbergh. D. Amelia Earhart."
+  },
+  {
+   "id": "v08_q08",
+   "text": "Question eight. What does GPS stand for? A. General Position System. B. Global Positioning System. C. Great Path Sensor. D. Global Planet Signal."
+  },
+  {
+   "id": "v08_q09",
+   "text": "Question nine. Who discovered penicillin? A. Louis Pasteur. B. Marie Curie. C. Alexander Fleming. D. Edward Jenner."
+  },
+  {
+   "id": "v08_q10",
+   "text": "Question ten. What does AI stand for? A. Artificial Intelligence. B. Automatic Internet. C. Advanced Input. D. Applied Interface."
+  },
+  {
+   "id": "v08_q11",
+   "text": "Question eleven. What was the name of the first artificial satellite launched in 1957? A. Explorer One. B. Apollo. C. Sputnik One. D. Vostok."
+  },
+  {
+   "id": "v08_q12",
+   "text": "Question twelve. What does RAM stand for in a computer? A. Read Any Memory. B. Random Access Memory. C. Rapid Active Module. D. Run All Memory."
+  },
+  {
+   "id": "v08_q13",
+   "text": "Question thirteen. What does PDF stand for? A. Portable Document Format. B. Printed Data File. C. Personal Document Folder. D. Public Data Format."
+  },
+  {
+   "id": "v08_q14",
+   "text": "Question fourteen. Who is credited with patenting the first practical telephone in 1876? A. Thomas Edison. B. Nikola Tesla. C. Alexander Graham Bell. D. Guglielmo Marconi."
+  },
+  {
+   "id": "v08_q15",
+   "text": "Question fifteen. What does Wi-Fi allow devices to do? A. Charge wirelessly. B. Connect to a network wirelessly. C. Print in color. D. Store data offline."
+  },
+  {
+   "id": "v08_a01",
+   "text": "C is correct, Tim Berners-Lee."
+  },
+  {
+   "id": "v08_a02",
+   "text": "A is correct, Central Processing Unit."
+  },
+  {
+   "id": "v08_a03",
+   "text": "A is correct, Universal Serial Bus."
+  },
+  {
+   "id": "v08_a04",
+   "text": "B is correct, Apple."
+  },
+  {
+   "id": "v08_a05",
+   "text": "C is correct, Johannes Gutenberg."
+  },
+  {
+   "id": "v08_a06",
+   "text": "D is correct, binary."
+  },
+  {
+   "id": "v08_a07",
+   "text": "A is correct, the Wright brothers."
+  },
+  {
+   "id": "v08_a08",
+   "text": "B is correct, Global Positioning System."
+  },
+  {
+   "id": "v08_a09",
+   "text": "C is correct, Alexander Fleming."
+  },
+  {
+   "id": "v08_a10",
+   "text": "A is correct, Artificial Intelligence."
+  },
+  {
+   "id": "v08_a11",
+   "text": "C is correct, Sputnik One."
+  },
+  {
+   "id": "v08_a12",
+   "text": "B is correct, Random Access Memory."
+  },
+  {
+   "id": "v08_a13",
+   "text": "A is correct, Portable Document Format."
+  },
+  {
+   "id": "v08_a14",
+   "text": "C is correct, Alexander Graham Bell."
+  },
+  {
+   "id": "v08_a15",
+   "text": "B is correct, connect to a network wirelessly."
+  }
+ ]
+}

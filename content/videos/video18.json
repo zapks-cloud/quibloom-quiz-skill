@@ -1,0 +1,233 @@
+{
+ "video": 18,
+ "topic": "Mythology",
+ "category": "MYTHOLOGY",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "Who was the king of the Greek gods?",
+   "options": [
+    "Zeus",
+    "Apollo",
+    "Hermes",
+    "Ares"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question one. Who was the king of the Greek gods? A. Zeus. B. Apollo. C. Hermes. D. Ares.",
+   "answer_speech": "A is correct, Zeus.",
+   "source": "https://en.wikipedia.org/wiki/Zeus"
+  },
+  {
+   "n": 2,
+   "question": "What is the Roman name for Zeus?",
+   "options": [
+    "Neptune",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question two. What is the Roman name for Zeus? A. Neptune. B. Mars. C. Jupiter. D. Saturn.",
+   "answer_speech": "C is correct, Jupiter.",
+   "source": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+  },
+  {
+   "n": 3,
+   "question": "Which Norse god wielded the hammer Mjolnir?",
+   "options": [
+    "Loki",
+    "Thor",
+    "Baldur",
+    "Odin"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question three. Which Norse god wielded the hammer Mjolnir? A. Loki. B. Thor. C. Baldur. D. Odin.",
+   "answer_speech": "B is correct, Thor.",
+   "source": "https://en.wikipedia.org/wiki/Thor"
+  },
+  {
+   "n": 4,
+   "question": "Which monster from Greek myth had snakes for hair?",
+   "options": [
+    "The Chimera",
+    "The Hydra",
+    "The Sphinx",
+    "Medusa"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question four. Which monster from Greek myth had snakes for hair? A. The Chimera. B. The Hydra. C. The Sphinx. D. Medusa.",
+   "answer_speech": "D is correct, Medusa.",
+   "source": "https://en.wikipedia.org/wiki/Medusa"
+  },
+  {
+   "n": 5,
+   "question": "Who was the Greek god of the sea?",
+   "options": [
+    "Poseidon",
+    "Hermes",
+    "Hades",
+    "Dionysus"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question five. Who was the Greek god of the sea? A. Poseidon. B. Hermes. C. Hades. D. Dionysus.",
+   "answer_speech": "A is correct, Poseidon.",
+   "source": "https://en.wikipedia.org/wiki/Poseidon"
+  },
+  {
+   "n": 6,
+   "question": "Who was the ancient Egyptian god of the sun?",
+   "options": [
+    "Horus",
+    "Ra",
+    "Anubis",
+    "Osiris"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question six. Who was the ancient Egyptian god of the sun? A. Horus. B. Ra. C. Anubis. D. Osiris.",
+   "answer_speech": "B is correct, Ra.",
+   "source": "https://en.wikipedia.org/wiki/Ra"
+  },
+  {
+   "n": 7,
+   "question": "Which city did the Greeks enter inside the Trojan Horse?",
+   "options": [
+    "Sparta",
+    "Corinth",
+    "Athens",
+    "Troy"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question seven. Which city did the Greeks enter inside the Trojan Horse? A. Sparta. B. Corinth. C. Athens. D. Troy.",
+   "answer_speech": "D is correct, Troy.",
+   "source": "https://en.wikipedia.org/wiki/Trojan_Horse"
+  },
+  {
+   "n": 8,
+   "question": "Where did the Minotaur live?",
+   "options": [
+    "In a forest",
+    "In a volcano",
+    "In a labyrinth",
+    "In the sea"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question eight. Where did the Minotaur live? A. In a forest. B. In a volcano. C. In a labyrinth. D. In the sea.",
+   "answer_speech": "C is correct, In a labyrinth.",
+   "source": "https://en.wikipedia.org/wiki/Minotaur"
+  },
+  {
+   "n": 9,
+   "question": "In Norse myth, what is the hall of slain warriors called?",
+   "options": [
+    "Valhalla",
+    "Helheim",
+    "Midgard",
+    "Asgard"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question nine. In Norse myth, what is the hall of slain warriors called? A. Valhalla. B. Helheim. C. Midgard. D. Asgard.",
+   "answer_speech": "A is correct, Valhalla.",
+   "source": "https://en.wikipedia.org/wiki/Valhalla"
+  },
+  {
+   "n": 10,
+   "question": "Which winged horse appears in Greek myth?",
+   "options": [
+    "Bucephalus",
+    "Unicorn",
+    "Sleipnir",
+    "Pegasus"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question ten. Which winged horse appears in Greek myth? A. Bucephalus. B. Unicorn. C. Sleipnir. D. Pegasus.",
+   "answer_speech": "D is correct, Pegasus.",
+   "source": "https://en.wikipedia.org/wiki/Pegasus"
+  },
+  {
+   "n": 11,
+   "question": "Who was the Greek goddess of wisdom?",
+   "options": [
+    "Hera",
+    "Athena",
+    "Aphrodite",
+    "Artemis"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. Who was the Greek goddess of wisdom? A. Hera. B. Athena. C. Aphrodite. D. Artemis.",
+   "answer_speech": "B is correct, Athena.",
+   "source": "https://en.wikipedia.org/wiki/Athena"
+  },
+  {
+   "n": 12,
+   "question": "Which Egyptian god had the head of a jackal?",
+   "options": [
+    "Horus",
+    "Thoth",
+    "Anubis",
+    "Sobek"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question twelve. Which Egyptian god had the head of a jackal? A. Horus. B. Thoth. C. Anubis. D. Sobek.",
+   "answer_speech": "C is correct, Anubis.",
+   "source": "https://en.wikipedia.org/wiki/Anubis"
+  },
+  {
+   "n": 13,
+   "question": "What is the Greek name of the hero the Romans called Hercules?",
+   "options": [
+    "Odysseus",
+    "Heracles",
+    "Perseus",
+    "Achilles"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question thirteen. What is the Greek name of the hero the Romans called Hercules? A. Odysseus. B. Heracles. C. Perseus. D. Achilles.",
+   "answer_speech": "B is correct, Heracles.",
+   "source": "https://en.wikipedia.org/wiki/Heracles"
+  },
+  {
+   "n": 14,
+   "question": "Who was the Greek god of the underworld?",
+   "options": [
+    "Apollo",
+    "Helios",
+    "Hades",
+    "Ares"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fourteen. Who was the Greek god of the underworld? A. Apollo. B. Helios. C. Hades. D. Ares.",
+   "answer_speech": "C is correct, Hades.",
+   "source": "https://en.wikipedia.org/wiki/Hades"
+  },
+  {
+   "n": 15,
+   "question": "On which mountain did the Greek gods live?",
+   "options": [
+    "Mount Etna",
+    "Mount Sinai",
+    "Mount Ida",
+    "Mount Olympus"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question fifteen. On which mountain did the Greek gods live? A. Mount Etna. B. Mount Sinai. C. Mount Ida. D. Mount Olympus.",
+   "answer_speech": "D is correct, Mount Olympus.",
+   "source": "https://en.wikipedia.org/wiki/Twelve_Olympians"
+  }
+ ]
+}

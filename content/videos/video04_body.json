@@ -1,0 +1,349 @@
+{
+ "video": 4,
+ "topic": "Human body",
+ "category": "BODY",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "sources": [
+  "https://training.seer.cancer.gov/anatomy/skeletal/divisions/",
+  "https://www.hopkinsmedicine.org/health/skin/anatomy-of-the-skin",
+  "https://my.clevelandclinic.org/health/body/24798-tooth-enamel",
+  "https://my.clevelandclinic.org/health/body/ossicles",
+  "https://my.clevelandclinic.org/health/body/22503-femur",
+  "https://www.nhsinform.scot/healthy-living/dental-health/your-teeth/everything-you-need-to-know-about-teeth/",
+  "https://medlineplus.gov/ency/article/001982.htm"
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "question": "How many bones does an adult human body have?",
+   "options": [
+    "206",
+    "250",
+    "180",
+    "300"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question one. How many bones does an adult human body have? A. 206. B. 250. C. 180. D. 300.",
+   "answer_speech": "A is correct, 206."
+  },
+  {
+   "n": 2,
+   "question": "Which organ pumps blood around the body?",
+   "options": [
+    "Liver",
+    "Lungs",
+    "Heart",
+    "Stomach"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question two. Which organ pumps blood around the body? A. Liver. B. Lungs. C. Heart. D. Stomach.",
+   "answer_speech": "C is correct, the heart."
+  },
+  {
+   "n": 3,
+   "question": "What is the largest organ of the human body?",
+   "options": [
+    "Skin",
+    "Liver",
+    "Brain",
+    "Heart"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question three. What is the largest organ of the human body? A. Skin. B. Liver. C. Brain. D. Heart.",
+   "answer_speech": "A is correct, the skin."
+  },
+  {
+   "n": 4,
+   "question": "How many chambers does the human heart have?",
+   "options": [
+    "Two",
+    "Three",
+    "Five",
+    "Four"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question four. How many chambers does the human heart have? A. Two. B. Three. C. Five. D. Four.",
+   "answer_speech": "D is correct, four."
+  },
+  {
+   "n": 5,
+   "question": "Which organs do we use to breathe?",
+   "options": [
+    "Kidneys",
+    "Lungs",
+    "Liver",
+    "Stomach"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question five. Which organs do we use to breathe? A. Kidneys. B. Lungs. C. Liver. D. Stomach.",
+   "answer_speech": "B is correct, the lungs."
+  },
+  {
+   "n": 6,
+   "question": "Which vitamin does the body make from sunlight?",
+   "options": [
+    "Vitamin C",
+    "Vitamin A",
+    "Vitamin D",
+    "Vitamin B"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question six. Which vitamin does the body make from sunlight? A. Vitamin C. B. Vitamin A. C. Vitamin D. D. Vitamin B.",
+   "answer_speech": "C is correct, vitamin D."
+  },
+  {
+   "n": 7,
+   "question": "How many teeth does a full adult set have?",
+   "options": [
+    "28",
+    "30",
+    "36",
+    "32"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question seven. How many teeth does a full adult set have? A. 28. B. 30. C. 36. D. 32.",
+   "answer_speech": "D is correct, 32."
+  },
+  {
+   "n": 8,
+   "question": "Which blood cells carry oxygen around the body?",
+   "options": [
+    "White blood cells",
+    "Red blood cells",
+    "Platelets",
+    "Plasma"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eight. Which blood cells carry oxygen around the body? A. White blood cells. B. Red blood cells. C. Platelets. D. Plasma.",
+   "answer_speech": "B is correct, red blood cells."
+  },
+  {
+   "n": 9,
+   "question": "Which is the longest bone in the human body?",
+   "options": [
+    "Femur",
+    "Tibia",
+    "Humerus",
+    "Spine"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question nine. Which is the longest bone in the human body? A. Femur. B. Tibia. C. Humerus. D. Spine.",
+   "answer_speech": "A is correct, the femur."
+  },
+  {
+   "n": 10,
+   "question": "Which organs filter waste from the blood?",
+   "options": [
+    "Lungs",
+    "Intestines",
+    "Kidneys",
+    "Stomach"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question ten. Which organs filter waste from the blood? A. Lungs. B. Intestines. C. Kidneys. D. Stomach.",
+   "answer_speech": "C is correct, the kidneys."
+  },
+  {
+   "n": 11,
+   "question": "What is the hardest substance in the human body?",
+   "options": [
+    "Bone",
+    "Tooth enamel",
+    "Nail",
+    "Cartilage"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. What is the hardest substance in the human body? A. Bone. B. Tooth enamel. C. Nail. D. Cartilage.",
+   "answer_speech": "B is correct, tooth enamel."
+  },
+  {
+   "n": 12,
+   "question": "Which part of the eye gives it its color?",
+   "options": [
+    "Pupil",
+    "Cornea",
+    "Retina",
+    "Iris"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question twelve. Which part of the eye gives it its color? A. Pupil. B. Cornea. C. Retina. D. Iris.",
+   "answer_speech": "D is correct, the iris."
+  },
+  {
+   "n": 13,
+   "question": "What is the smallest bone in the human body?",
+   "options": [
+    "Stapes in the ear",
+    "Kneecap",
+    "Rib",
+    "Finger bone"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question thirteen. What is the smallest bone in the human body? A. Stapes in the ear. B. Kneecap. C. Rib. D. Finger bone.",
+   "answer_speech": "A is correct, the stapes in the ear."
+  },
+  {
+   "n": 14,
+   "question": "What is normal human body temperature?",
+   "options": [
+    "About 30 degrees Celsius",
+    "About 42 degrees Celsius",
+    "About 37 degrees Celsius",
+    "About 25 degrees Celsius"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fourteen. What is normal human body temperature? A. About 30 degrees Celsius. B. About 42 degrees Celsius. C. About 37 degrees Celsius. D. About 25 degrees Celsius.",
+   "answer_speech": "C is correct, about 37 degrees Celsius."
+  },
+  {
+   "n": 15,
+   "question": "How many senses are traditionally taught?",
+   "options": [
+    "Four",
+    "Five",
+    "Six",
+    "Seven"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fifteen. How many senses are traditionally taught? A. Four. B. Five. C. Six. D. Seven.",
+   "answer_speech": "B is correct, five."
+  }
+ ],
+ "clips": [
+  {
+   "id": "v04_q01",
+   "text": "Question one. How many bones does an adult human body have? A. 206. B. 250. C. 180. D. 300."
+  },
+  {
+   "id": "v04_q02",
+   "text": "Question two. Which organ pumps blood around the body? A. Liver. B. Lungs. C. Heart. D. Stomach."
+  },
+  {
+   "id": "v04_q03",
+   "text": "Question three. What is the largest organ of the human body? A. Skin. B. Liver. C. Brain. D. Heart."
+  },
+  {
+   "id": "v04_q04",
+   "text": "Question four. How many chambers does the human heart have? A. Two. B. Three. C. Five. D. Four."
+  },
+  {
+   "id": "v04_q05",
+   "text": "Question five. Which organs do we use to breathe? A. Kidneys. B. Lungs. C. Liver. D. Stomach."
+  },
+  {
+   "id": "v04_q06",
+   "text": "Question six. Which vitamin does the body make from sunlight? A. Vitamin C. B. Vitamin A. C. Vitamin D. D. Vitamin B."
+  },
+  {
+   "id": "v04_q07",
+   "text": "Question seven. How many teeth does a full adult set have? A. 28. B. 30. C. 36. D. 32."
+  },
+  {
+   "id": "v04_q08",
+   "text": "Question eight. Which blood cells carry oxygen around the body? A. White blood cells. B. Red blood cells. C. Platelets. D. Plasma."
+  },
+  {
+   "id": "v04_q09",
+   "text": "Question nine. Which is the longest bone in the human body? A. Femur. B. Tibia. C. Humerus. D. Spine."
+  },
+  {
+   "id": "v04_q10",
+   "text": "Question ten. Which organs filter waste from the blood? A. Lungs. B. Intestines. C. Kidneys. D. Stomach."
+  },
+  {
+   "id": "v04_q11",
+   "text": "Question eleven. What is the hardest substance in the human body? A. Bone. B. Tooth enamel. C. Nail. D. Cartilage."
+  },
+  {
+   "id": "v04_q12",
+   "text": "Question twelve. Which part of the eye gives it its color? A. Pupil. B. Cornea. C. Retina. D. Iris."
+  },
+  {
+   "id": "v04_q13",
+   "text": "Question thirteen. What is the smallest bone in the human body? A. Stapes in the ear. B. Kneecap. C. Rib. D. Finger bone."
+  },
+  {
+   "id": "v04_q14",
+   "text": "Question fourteen. What is normal human body temperature? A. About 30 degrees Celsius. B. About 42 degrees Celsius. C. About 37 degrees Celsius. D. About 25 degrees Celsius."
+  },
+  {
+   "id": "v04_q15",
+   "text": "Question fifteen. How many senses are traditionally taught? A. Four. B. Five. C. Six. D. Seven."
+  },
+  {
+   "id": "v04_a01",
+   "text": "A is correct, 206."
+  },
+  {
+   "id": "v04_a02",
+   "text": "C is correct, the heart."
+  },
+  {
+   "id": "v04_a03",
+   "text": "A is correct, the skin."
+  },
+  {
+   "id": "v04_a04",
+   "text": "D is correct, four."
+  },
+  {
+   "id": "v04_a05",
+   "text": "B is correct, the lungs."
+  },
+  {
+   "id": "v04_a06",
+   "text": "C is correct, vitamin D."
+  },
+  {
+   "id": "v04_a07",
+   "text": "D is correct, 32."
+  },
+  {
+   "id": "v04_a08",
+   "text": "B is correct, red blood cells."
+  },
+  {
+   "id": "v04_a09",
+   "text": "A is correct, the femur."
+  },
+  {
+   "id": "v04_a10",
+   "text": "C is correct, the kidneys."
+  },
+  {
+   "id": "v04_a11",
+   "text": "B is correct, tooth enamel."
+  },
+  {
+   "id": "v04_a12",
+   "text": "D is correct, the iris."
+  },
+  {
+   "id": "v04_a13",
+   "text": "A is correct, the stapes in the ear."
+  },
+  {
+   "id": "v04_a14",
+   "text": "C is correct, about 37 degrees Celsius."
+  },
+  {
+   "id": "v04_a15",
+   "text": "B is correct, five."
+  }
+ ]
+}

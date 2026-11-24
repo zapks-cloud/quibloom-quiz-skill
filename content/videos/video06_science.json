@@ -1,0 +1,346 @@
+{
+ "video": 6,
+ "topic": "Science basics",
+ "category": "SCIENCE",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "sources": [
+  "https://kids.britannica.com/scholars/article/Is-Diamond-the-Hardest-Substance-on-Earth/650401",
+  "https://pubchem.ncbi.nlm.nih.gov/element/Mercury",
+  "https://www.noaa.gov/jetstream/atmosphere",
+  "https://www.nist.gov/pml/owm/si-units-temperature"
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "question": "What gas do plants take in from the air for photosynthesis?",
+   "options": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon dioxide",
+    "Hydrogen"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question one. What gas do plants take in from the air for photosynthesis? A. Oxygen. B. Nitrogen. C. Carbon dioxide. D. Hydrogen.",
+   "answer_speech": "C is correct, carbon dioxide."
+  },
+  {
+   "n": 2,
+   "question": "What is water made of?",
+   "options": [
+    "Hydrogen and oxygen",
+    "Carbon and oxygen",
+    "Nitrogen and hydrogen",
+    "Helium and oxygen"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question two. What is water made of? A. Hydrogen and oxygen. B. Carbon and oxygen. C. Nitrogen and hydrogen. D. Helium and oxygen.",
+   "answer_speech": "A is correct, hydrogen and oxygen."
+  },
+  {
+   "n": 3,
+   "question": "What is the center of an atom called?",
+   "options": [
+    "Electron",
+    "Nucleus",
+    "Shell",
+    "Orbit"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question three. What is the center of an atom called? A. Electron. B. Nucleus. C. Shell. D. Orbit.",
+   "answer_speech": "B is correct, the nucleus."
+  },
+  {
+   "n": 4,
+   "question": "What force pulls objects toward the Earth?",
+   "options": [
+    "Magnetism",
+    "Friction",
+    "Gravity",
+    "Inertia"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question four. What force pulls objects toward the Earth? A. Magnetism. B. Friction. C. Gravity. D. Inertia.",
+   "answer_speech": "C is correct, gravity."
+  },
+  {
+   "n": 5,
+   "question": "At sea level, water boils at what temperature?",
+   "options": [
+    "90 degrees Celsius",
+    "80 degrees Celsius",
+    "120 degrees Celsius",
+    "100 degrees Celsius"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question five. At sea level, water boils at what temperature? A. 90 degrees Celsius. B. 80 degrees Celsius. C. 120 degrees Celsius. D. 100 degrees Celsius.",
+   "answer_speech": "D is correct, 100 degrees Celsius."
+  },
+  {
+   "n": 6,
+   "question": "What is the hardest natural substance?",
+   "options": [
+    "Diamond",
+    "Gold",
+    "Iron",
+    "Quartz"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question six. What is the hardest natural substance? A. Diamond. B. Gold. C. Iron. D. Quartz.",
+   "answer_speech": "A is correct, diamond."
+  },
+  {
+   "n": 7,
+   "question": "Which travels faster, light or sound?",
+   "options": [
+    "Sound",
+    "Light",
+    "They are equal",
+    "It depends on the day"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question seven. Which travels faster, light or sound? A. Sound. B. Light. C. They are equal. D. It depends on the day.",
+   "answer_speech": "B is correct, light."
+  },
+  {
+   "n": 8,
+   "question": "Which gas makes up most of Earth's atmosphere?",
+   "options": [
+    "Oxygen",
+    "Carbon dioxide",
+    "Nitrogen",
+    "Hydrogen"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question eight. Which gas makes up most of Earth's atmosphere? A. Oxygen. B. Carbon dioxide. C. Nitrogen. D. Hydrogen.",
+   "answer_speech": "C is correct, nitrogen."
+  },
+  {
+   "n": 9,
+   "question": "What do we call animals that eat only plants?",
+   "options": [
+    "Carnivores",
+    "Omnivores",
+    "Insectivores",
+    "Herbivores"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question nine. What do we call animals that eat only plants? A. Carnivores. B. Omnivores. C. Insectivores. D. Herbivores.",
+   "answer_speech": "D is correct, herbivores."
+  },
+  {
+   "n": 10,
+   "question": "What is the process plants use to make their food?",
+   "options": [
+    "Photosynthesis",
+    "Digestion",
+    "Respiration",
+    "Evaporation"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question ten. What is the process plants use to make their food? A. Photosynthesis. B. Digestion. C. Respiration. D. Evaporation.",
+   "answer_speech": "A is correct, photosynthesis."
+  },
+  {
+   "n": 11,
+   "question": "At what temperature does water freeze, in degrees Celsius?",
+   "options": [
+    "Ten",
+    "Zero",
+    "Minus ten",
+    "One hundred"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. At what temperature does water freeze, in degrees Celsius? A. Ten. B. Zero. C. Minus ten. D. One hundred.",
+   "answer_speech": "B is correct, zero."
+  },
+  {
+   "n": 12,
+   "question": "Which metal is liquid at room temperature?",
+   "options": [
+    "Iron",
+    "Copper",
+    "Mercury",
+    "Aluminum"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question twelve. Which metal is liquid at room temperature? A. Iron. B. Copper. C. Mercury. D. Aluminum.",
+   "answer_speech": "C is correct, mercury."
+  },
+  {
+   "n": 13,
+   "question": "Who developed the theory of relativity?",
+   "options": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Galileo Galilei",
+    "Nikola Tesla"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question thirteen. Who developed the theory of relativity? A. Isaac Newton. B. Albert Einstein. C. Galileo Galilei. D. Nikola Tesla.",
+   "answer_speech": "B is correct, Albert Einstein."
+  },
+  {
+   "n": 14,
+   "question": "Which gas do humans need to breathe to live?",
+   "options": [
+    "Oxygen",
+    "Helium",
+    "Carbon dioxide",
+    "Methane"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question fourteen. Which gas do humans need to breathe to live? A. Oxygen. B. Helium. C. Carbon dioxide. D. Methane.",
+   "answer_speech": "A is correct, oxygen."
+  },
+  {
+   "n": 15,
+   "question": "What is the study of living things called?",
+   "options": [
+    "Geology",
+    "Chemistry",
+    "Physics",
+    "Biology"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question fifteen. What is the study of living things called? A. Geology. B. Chemistry. C. Physics. D. Biology.",
+   "answer_speech": "D is correct, biology."
+  }
+ ],
+ "clips": [
+  {
+   "id": "v06_q01",
+   "text": "Question one. What gas do plants take in from the air for photosynthesis? A. Oxygen. B. Nitrogen. C. Carbon dioxide. D. Hydrogen."
+  },
+  {
+   "id": "v06_q02",
+   "text": "Question two. What is water made of? A. Hydrogen and oxygen. B. Carbon and oxygen. C. Nitrogen and hydrogen. D. Helium and oxygen."
+  },
+  {
+   "id": "v06_q03",
+   "text": "Question three. What is the center of an atom called? A. Electron. B. Nucleus. C. Shell. D. Orbit."
+  },
+  {
+   "id": "v06_q04",
+   "text": "Question four. What force pulls objects toward the Earth? A. Magnetism. B. Friction. C. Gravity. D. Inertia."
+  },
+  {
+   "id": "v06_q05",
+   "text": "Question five. At sea level, water boils at what temperature? A. 90 degrees Celsius. B. 80 degrees Celsius. C. 120 degrees Celsius. D. 100 degrees Celsius."
+  },
+  {
+   "id": "v06_q06",
+   "text": "Question six. What is the hardest natural substance? A. Diamond. B. Gold. C. Iron. D. Quartz."
+  },
+  {
+   "id": "v06_q07",
+   "text": "Question seven. Which travels faster, light or sound? A. Sound. B. Light. C. They are equal. D. It depends on the day."
+  },
+  {
+   "id": "v06_q08",
+   "text": "Question eight. Which gas makes up most of Earth's atmosphere? A. Oxygen. B. Carbon dioxide. C. Nitrogen. D. Hydrogen."
+  },
+  {
+   "id": "v06_q09",
+   "text": "Question nine. What do we call animals that eat only plants? A. Carnivores. B. Omnivores. C. Insectivores. D. Herbivores."
+  },
+  {
+   "id": "v06_q10",
+   "text": "Question ten. What is the process plants use to make their food? A. Photosynthesis. B. Digestion. C. Respiration. D. Evaporation."
+  },
+  {
+   "id": "v06_q11",
+   "text": "Question eleven. At what temperature does water freeze, in degrees Celsius? A. Ten. B. Zero. C. Minus ten. D. One hundred."
+  },
+  {
+   "id": "v06_q12",
+   "text": "Question twelve. Which metal is liquid at room temperature? A. Iron. B. Copper. C. Mercury. D. Aluminum."
+  },
+  {
+   "id": "v06_q13",
+   "text": "Question thirteen. Who developed the theory of relativity? A. Isaac Newton. B. Albert Einstein. C. Galileo Galilei. D. Nikola Tesla."
+  },
+  {
+   "id": "v06_q14",
+   "text": "Question fourteen. Which gas do humans need to breathe to live? A. Oxygen. B. Helium. C. Carbon dioxide. D. Methane."
+  },
+  {
+   "id": "v06_q15",
+   "text": "Question fifteen. What is the study of living things called? A. Geology. B. Chemistry. C. Physics. D. Biology."
+  },
+  {
+   "id": "v06_a01",
+   "text": "C is correct, carbon dioxide."
+  },
+  {
+   "id": "v06_a02",
+   "text": "A is correct, hydrogen and oxygen."
+  },
+  {
+   "id": "v06_a03",
+   "text": "B is correct, the nucleus."
+  },
+  {
+   "id": "v06_a04",
+   "text": "C is correct, gravity."
+  },
+  {
+   "id": "v06_a05",
+   "text": "D is correct, 100 degrees Celsius."
+  },
+  {
+   "id": "v06_a06",
+   "text": "A is correct, diamond."
+  },
+  {
+   "id": "v06_a07",
+   "text": "B is correct, light."
+  },
+  {
+   "id": "v06_a08",
+   "text": "C is correct, nitrogen."
+  },
+  {
+   "id": "v06_a09",
+   "text": "D is correct, herbivores."
+  },
+  {
+   "id": "v06_a10",
+   "text": "A is correct, photosynthesis."
+  },
+  {
+   "id": "v06_a11",
+   "text": "B is correct, zero."
+  },
+  {
+   "id": "v06_a12",
+   "text": "C is correct, mercury."
+  },
+  {
+   "id": "v06_a13",
+   "text": "B is correct, Albert Einstein."
+  },
+  {
+   "id": "v06_a14",
+   "text": "A is correct, oxygen."
+  },
+  {
+   "id": "v06_a15",
+   "text": "D is correct, biology."
+  }
+ ]
+}

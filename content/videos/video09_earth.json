@@ -1,0 +1,350 @@
+{
+ "video": 9,
+ "topic": "Earth and weather",
+ "category": "EARTH",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "sources": [
+  "https://pubs.usgs.gov/gip/interior/",
+  "https://www.usgs.gov/faqs/what-was-pangea",
+  "https://www.ozonelayer.noaa.gov/science/basics.htm",
+  "https://oceanservice.noaa.gov/education/tutorial_tides/tides02_cause.html",
+  "https://www.antarctica.gov.au/about-antarctica/people-in-antarctica/how-cold-is-it/",
+  "https://www.usgs.gov/faqs/what-are-igneous-rocks",
+  "https://www.usgs.gov/faqs/what-earthquake-and-what-causes-them-happen",
+  "https://howthingsfly.si.edu/ask-an-explainer/what-instrument-used-measure-atmospheric-pressure"
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "question": "Which layer of the Earth do we live on?",
+   "options": [
+    "Mantle",
+    "Crust",
+    "Outer core",
+    "Inner core"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question one. Which layer of the Earth do we live on? A. Mantle. B. Crust. C. Outer core. D. Inner core.",
+   "answer_speech": "B is correct, the crust."
+  },
+  {
+   "n": 2,
+   "question": "What is the main cause of ocean tides?",
+   "options": [
+    "The Moon's gravity",
+    "Wind",
+    "Earth's rotation only",
+    "Ocean currents"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question two. What is the main cause of ocean tides? A. The Moon's gravity. B. Wind. C. Earth's rotation only. D. Ocean currents.",
+   "answer_speech": "A is correct, the Moon's gravity."
+  },
+  {
+   "n": 3,
+   "question": "What is a large rotating tropical storm called?",
+   "options": [
+    "Tornado",
+    "Blizzard",
+    "Hurricane",
+    "Drought"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question three. What is a large rotating tropical storm called? A. Tornado. B. Blizzard. C. Hurricane. D. Drought.",
+   "answer_speech": "C is correct, a hurricane."
+  },
+  {
+   "n": 4,
+   "question": "Which layer of the atmosphere protects us from harmful ultraviolet rays?",
+   "options": [
+    "Ozone layer",
+    "Ionosphere",
+    "Exosphere",
+    "Troposphere"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question four. Which layer of the atmosphere protects us from harmful ultraviolet rays? A. Ozone layer. B. Ionosphere. C. Exosphere. D. Troposphere.",
+   "answer_speech": "A is correct, the ozone layer."
+  },
+  {
+   "n": 5,
+   "question": "About how long does the Earth take to orbit the Sun?",
+   "options": [
+    "About 30 days",
+    "About 365 days",
+    "About 24 hours",
+    "About 180 days"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question five. About how long does the Earth take to orbit the Sun? A. About 30 days. B. About 365 days. C. About 24 hours. D. About 180 days.",
+   "answer_speech": "B is correct, about 365 days."
+  },
+  {
+   "n": 6,
+   "question": "Which continent is the coldest?",
+   "options": [
+    "Arctic",
+    "Asia",
+    "Antarctica",
+    "Europe"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question six. Which continent is the coldest? A. Arctic. B. Asia. C. Antarctica. D. Europe.",
+   "answer_speech": "C is correct, Antarctica."
+  },
+  {
+   "n": 7,
+   "question": "Which instrument measures air pressure?",
+   "options": [
+    "Thermometer",
+    "Anemometer",
+    "Seismograph",
+    "Barometer"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question seven. Which instrument measures air pressure? A. Thermometer. B. Anemometer. C. Seismograph. D. Barometer.",
+   "answer_speech": "D is correct, the barometer."
+  },
+  {
+   "n": 8,
+   "question": "What type of rock forms from cooled lava or magma?",
+   "options": [
+    "Sedimentary",
+    "Igneous",
+    "Metamorphic",
+    "Fossil"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eight. What type of rock forms from cooled lava or magma? A. Sedimentary. B. Igneous. C. Metamorphic. D. Fossil.",
+   "answer_speech": "B is correct, igneous rock."
+  },
+  {
+   "n": 9,
+   "question": "What mainly causes earthquakes?",
+   "options": [
+    "Moving tectonic plates",
+    "Strong winds",
+    "The Moon",
+    "Heavy rain"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question nine. What mainly causes earthquakes? A. Moving tectonic plates. B. Strong winds. C. The Moon. D. Heavy rain.",
+   "answer_speech": "A is correct, moving tectonic plates."
+  },
+  {
+   "n": 10,
+   "question": "What was the name of the single giant landmass that once joined all the continents?",
+   "options": [
+    "Atlantis",
+    "Gondwana",
+    "Pangaea",
+    "Laurasia"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question ten. What was the name of the single giant landmass that once joined all the continents? A. Atlantis. B. Gondwana. C. Pangaea. D. Laurasia.",
+   "answer_speech": "C is correct, Pangaea."
+  },
+  {
+   "n": 11,
+   "question": "Rainbows form when sunlight passes through what?",
+   "options": [
+    "Clouds of dust",
+    "Water droplets",
+    "Snow crystals",
+    "Smoke"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. Rainbows form when sunlight passes through what? A. Clouds of dust. B. Water droplets. C. Snow crystals. D. Smoke.",
+   "answer_speech": "B is correct, water droplets."
+  },
+  {
+   "n": 12,
+   "question": "Which layer of the Earth is the largest by volume?",
+   "options": [
+    "Crust",
+    "Outer core",
+    "Inner core",
+    "Mantle"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question twelve. Which layer of the Earth is the largest by volume? A. Crust. B. Outer core. C. Inner core. D. Mantle.",
+   "answer_speech": "D is correct, the mantle."
+  },
+  {
+   "n": 13,
+   "question": "Which instrument measures earthquakes?",
+   "options": [
+    "Seismograph",
+    "Barometer",
+    "Hygrometer",
+    "Telescope"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question thirteen. Which instrument measures earthquakes? A. Seismograph. B. Barometer. C. Hygrometer. D. Telescope.",
+   "answer_speech": "A is correct, the seismograph."
+  },
+  {
+   "n": 14,
+   "question": "About how long does the Earth take to rotate once on its axis?",
+   "options": [
+    "About 12 hours",
+    "About 24 hours",
+    "About 48 hours",
+    "About 7 days"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fourteen. About how long does the Earth take to rotate once on its axis? A. About 12 hours. B. About 24 hours. C. About 48 hours. D. About 7 days.",
+   "answer_speech": "B is correct, about 24 hours."
+  },
+  {
+   "n": 15,
+   "question": "What do we call the water that falls from clouds?",
+   "options": [
+    "Evaporation",
+    "Condensation",
+    "Precipitation",
+    "Erosion"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fifteen. What do we call the water that falls from clouds? A. Evaporation. B. Condensation. C. Precipitation. D. Erosion.",
+   "answer_speech": "C is correct, precipitation."
+  }
+ ],
+ "clips": [
+  {
+   "id": "v09_q01",
+   "text": "Question one. Which layer of the Earth do we live on? A. Mantle. B. Crust. C. Outer core. D. Inner core."
+  },
+  {
+   "id": "v09_q02",
+   "text": "Question two. What is the main cause of ocean tides? A. The Moon's gravity. B. Wind. C. Earth's rotation only. D. Ocean currents."
+  },
+  {
+   "id": "v09_q03",
+   "text": "Question three. What is a large rotating tropical storm called? A. Tornado. B. Blizzard. C. Hurricane. D. Drought."
+  },
+  {
+   "id": "v09_q04",
+   "text": "Question four. Which layer of the atmosphere protects us from harmful ultraviolet rays? A. Ozone layer. B. Ionosphere. C. Exosphere. D. Troposphere."
+  },
+  {
+   "id": "v09_q05",
+   "text": "Question five. About how long does the Earth take to orbit the Sun? A. About 30 days. B. About 365 days. C. About 24 hours. D. About 180 days."
+  },
+  {
+   "id": "v09_q06",
+   "text": "Question six. Which continent is the coldest? A. Arctic. B. Asia. C. Antarctica. D. Europe."
+  },
+  {
+   "id": "v09_q07",
+   "text": "Question seven. Which instrument measures air pressure? A. Thermometer. B. Anemometer. C. Seismograph. D. Barometer."
+  },
+  {
+   "id": "v09_q08",
+   "text": "Question eight. What type of rock forms from cooled lava or magma? A. Sedimentary. B. Igneous. C. Metamorphic. D. Fossil."
+  },
+  {
+   "id": "v09_q09",
+   "text": "Question nine. What mainly causes earthquakes? A. Moving tectonic plates. B. Strong winds. C. The Moon. D. Heavy rain."
+  },
+  {
+   "id": "v09_q10",
+   "text": "Question ten. What was the name of the single giant landmass that once joined all the continents? A. Atlantis. B. Gondwana. C. Pangaea. D. Laurasia."
+  },
+  {
+   "id": "v09_q11",
+   "text": "Question eleven. Rainbows form when sunlight passes through what? A. Clouds of dust. B. Water droplets. C. Snow crystals. D. Smoke."
+  },
+  {
+   "id": "v09_q12",
+   "text": "Question twelve. Which layer of the Earth is the largest by volume? A. Crust. B. Outer core. C. Inner core. D. Mantle."
+  },
+  {
+   "id": "v09_q13",
+   "text": "Question thirteen. Which instrument measures earthquakes? A. Seismograph. B. Barometer. C. Hygrometer. D. Telescope."
+  },
+  {
+   "id": "v09_q14",
+   "text": "Question fourteen. About how long does the Earth take to rotate once on its axis? A. About 12 hours. B. About 24 hours. C. About 48 hours. D. About 7 days."
+  },
+  {
+   "id": "v09_q15",
+   "text": "Question fifteen. What do we call the water that falls from clouds? A. Evaporation. B. Condensation. C. Precipitation. D. Erosion."
+  },
+  {
+   "id": "v09_a01",
+   "text": "B is correct, the crust."
+  },
+  {
+   "id": "v09_a02",
+   "text": "A is correct, the Moon's gravity."
+  },
+  {
+   "id": "v09_a03",
+   "text": "C is correct, a hurricane."
+  },
+  {
+   "id": "v09_a04",
+   "text": "A is correct, the ozone layer."
+  },
+  {
+   "id": "v09_a05",
+   "text": "B is correct, about 365 days."
+  },
+  {
+   "id": "v09_a06",
+   "text": "C is correct, Antarctica."
+  },
+  {
+   "id": "v09_a07",
+   "text": "D is correct, the barometer."
+  },
+  {
+   "id": "v09_a08",
+   "text": "B is correct, igneous rock."
+  },
+  {
+   "id": "v09_a09",
+   "text": "A is correct, moving tectonic plates."
+  },
+  {
+   "id": "v09_a10",
+   "text": "C is correct, Pangaea."
+  },
+  {
+   "id": "v09_a11",
+   "text": "B is correct, water droplets."
+  },
+  {
+   "id": "v09_a12",
+   "text": "D is correct, the mantle."
+  },
+  {
+   "id": "v09_a13",
+   "text": "A is correct, the seismograph."
+  },
+  {
+   "id": "v09_a14",
+   "text": "B is correct, about 24 hours."
+  },
+  {
+   "id": "v09_a15",
+   "text": "C is correct, precipitation."
+  }
+ ]
+}

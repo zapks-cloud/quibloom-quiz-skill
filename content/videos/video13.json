@@ -1,0 +1,233 @@
+{
+ "video": 13,
+ "topic": "Mathematics",
+ "category": "MATH",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "How many sides does a hexagon have?",
+   "options": [
+    "Seven",
+    "Six",
+    "Five",
+    "Eight"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question one. How many sides does a hexagon have? A. Seven. B. Six. C. Five. D. Eight.",
+   "answer_speech": "B is correct, Six.",
+   "source": "https://en.wikipedia.org/wiki/Hexagon"
+  },
+  {
+   "n": 2,
+   "question": "What is 12 times 12?",
+   "options": [
+    "132",
+    "124",
+    "144",
+    "156"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question two. What is 12 times 12? A. 132. B. 124. C. 144. D. 156.",
+   "answer_speech": "C is correct, 144.",
+   "source": "https://en.wikipedia.org/wiki/144_(number)"
+  },
+  {
+   "n": 3,
+   "question": "What is the value of pi, rounded to two decimal places?",
+   "options": [
+    "3.41",
+    "3.14",
+    "3.12",
+    "3.16"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question three. What is the value of pi, rounded to two decimal places? A. 3.41. B. 3.14. C. 3.12. D. 3.16.",
+   "answer_speech": "B is correct, 3.14.",
+   "source": "https://en.wikipedia.org/wiki/Pi"
+  },
+  {
+   "n": 4,
+   "question": "What do the angles of any triangle add up to?",
+   "options": [
+    "90 degrees",
+    "270 degrees",
+    "180 degrees",
+    "360 degrees"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question four. What do the angles of any triangle add up to? A. 90 degrees. B. 270 degrees. C. 180 degrees. D. 360 degrees.",
+   "answer_speech": "C is correct, 180 degrees.",
+   "source": "https://en.wikipedia.org/wiki/Triangle"
+  },
+  {
+   "n": 5,
+   "question": "What is the square root of 81?",
+   "options": [
+    "7",
+    "8",
+    "11",
+    "9"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question five. What is the square root of 81? A. 7. B. 8. C. 11. D. 9.",
+   "answer_speech": "D is correct, 9.",
+   "source": "https://en.wikipedia.org/wiki/Square_root"
+  },
+  {
+   "n": 6,
+   "question": "How many degrees are in a right angle?",
+   "options": [
+    "90",
+    "60",
+    "45",
+    "180"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question six. How many degrees are in a right angle? A. 90. B. 60. C. 45. D. 180.",
+   "answer_speech": "A is correct, 90.",
+   "source": "https://en.wikipedia.org/wiki/Right_angle"
+  },
+  {
+   "n": 7,
+   "question": "What is the smallest prime number?",
+   "options": [
+    "1",
+    "0",
+    "2",
+    "3"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question seven. What is the smallest prime number? A. 1. B. 0. C. 2. D. 3.",
+   "answer_speech": "C is correct, 2.",
+   "source": "https://en.wikipedia.org/wiki/Prime_number"
+  },
+  {
+   "n": 8,
+   "question": "What do we call a polygon with eight sides?",
+   "options": [
+    "Decagon",
+    "Octagon",
+    "Heptagon",
+    "Nonagon"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eight. What do we call a polygon with eight sides? A. Decagon. B. Octagon. C. Heptagon. D. Nonagon.",
+   "answer_speech": "B is correct, Octagon.",
+   "source": "https://en.wikipedia.org/wiki/Octagon"
+  },
+  {
+   "n": 9,
+   "question": "What is 15 percent of 200?",
+   "options": [
+    "25",
+    "35",
+    "15",
+    "30"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question nine. What is 15 percent of 200? A. 25. B. 35. C. 15. D. 30.",
+   "answer_speech": "D is correct, 30.",
+   "source": "https://en.wikipedia.org/wiki/Percentage"
+  },
+  {
+   "n": 10,
+   "question": "Which Roman numeral stands for 50?",
+   "options": [
+    "L",
+    "C",
+    "X",
+    "V"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question ten. Which Roman numeral stands for 50? A. L. B. C. C. X. D. V.",
+   "answer_speech": "A is correct, L.",
+   "source": "https://en.wikipedia.org/wiki/Roman_numerals"
+  },
+  {
+   "n": 11,
+   "question": "What number comes next: 1, 1, 2, 3, 5, 8?",
+   "options": [
+    "15",
+    "13",
+    "12",
+    "11"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. What number comes next: 1, 1, 2, 3, 5, 8? A. 15. B. 13. C. 12. D. 11.",
+   "answer_speech": "B is correct, 13.",
+   "source": "https://en.wikipedia.org/wiki/Fibonacci_sequence"
+  },
+  {
+   "n": 12,
+   "question": "How many zeros are in one million?",
+   "options": [
+    "Five",
+    "Seven",
+    "Eight",
+    "Six"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question twelve. How many zeros are in one million? A. Five. B. Seven. C. Eight. D. Six.",
+   "answer_speech": "D is correct, Six.",
+   "source": "https://en.wikipedia.org/wiki/Million"
+  },
+  {
+   "n": 13,
+   "question": "What is the perimeter of a square with sides of 5?",
+   "options": [
+    "15",
+    "25",
+    "20",
+    "10"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question thirteen. What is the perimeter of a square with sides of 5? A. 15. B. 25. C. 20. D. 10.",
+   "answer_speech": "C is correct, 20.",
+   "source": "https://en.wikipedia.org/wiki/Square"
+  },
+  {
+   "n": 14,
+   "question": "What is the longest side of a right triangle called?",
+   "options": [
+    "The hypotenuse",
+    "The base",
+    "The apex",
+    "The radius"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question fourteen. What is the longest side of a right triangle called? A. The hypotenuse. B. The base. C. The apex. D. The radius.",
+   "answer_speech": "A is correct, The hypotenuse.",
+   "source": "https://en.wikipedia.org/wiki/Hypotenuse"
+  },
+  {
+   "n": 15,
+   "question": "Which ancient Greek mathematician is called the father of geometry?",
+   "options": [
+    "Archimedes",
+    "Plato",
+    "Pythagoras",
+    "Euclid"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question fifteen. Which ancient Greek mathematician is called the father of geometry? A. Archimedes. B. Plato. C. Pythagoras. D. Euclid.",
+   "answer_speech": "D is correct, Euclid.",
+   "source": "https://en.wikipedia.org/wiki/Euclid"
+  }
+ ]
+}

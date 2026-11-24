@@ -1,0 +1,349 @@
+{
+ "video": 3,
+ "topic": "Ocean life",
+ "category": "OCEAN",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "sources": [
+  "https://oceanservice.noaa.gov/facts/why-care-about-ocean.html",
+  "https://oceanexplorer.noaa.gov/ocean-fact/smallest-ocean/",
+  "https://oceanservice.noaa.gov/facts/bigfish.html",
+  "https://www.ocean.si.edu/ocean-life/invertebrates/pregnant-seahorse",
+  "https://www.fisheries.noaa.gov/pacific-islands/habitat-conservation/mariana-trench-marine-national-monument",
+  "https://oceanservice.noaa.gov/facts/gbrlargeststructure.html",
+  "https://www.worldwildlife.org/resources/facts/unicorn-of-the-sea-narwhal-facts/"
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "question": "Which is the largest ocean on Earth?",
+   "options": [
+    "Atlantic",
+    "Pacific",
+    "Indian",
+    "Arctic"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question one. Which is the largest ocean on Earth? A. Atlantic. B. Pacific. C. Indian. D. Arctic.",
+   "answer_speech": "B is correct, the Pacific."
+  },
+  {
+   "n": 2,
+   "question": "Which is the smallest ocean?",
+   "options": [
+    "Arctic",
+    "Indian",
+    "Southern",
+    "Atlantic"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question two. Which is the smallest ocean? A. Arctic. B. Indian. C. Southern. D. Atlantic.",
+   "answer_speech": "A is correct, the Arctic."
+  },
+  {
+   "n": 3,
+   "question": "What is the largest animal living in the ocean?",
+   "options": [
+    "Whale shark",
+    "Orca",
+    "Blue whale",
+    "Giant squid"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question three. What is the largest animal living in the ocean? A. Whale shark. B. Orca. C. Blue whale. D. Giant squid.",
+   "answer_speech": "C is correct, the blue whale."
+  },
+  {
+   "n": 4,
+   "question": "About how much of Earth's surface is covered by ocean?",
+   "options": [
+    "About 71 percent",
+    "About 50 percent",
+    "About 30 percent",
+    "About 90 percent"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question four. About how much of Earth's surface is covered by ocean? A. About 71 percent. B. About 50 percent. C. About 30 percent. D. About 90 percent.",
+   "answer_speech": "A is correct, about 71 percent."
+  },
+  {
+   "n": 5,
+   "question": "What is the deepest known part of the ocean?",
+   "options": [
+    "Puerto Rico Trench",
+    "Mariana Trench",
+    "Java Trench",
+    "Tonga Trench"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question five. What is the deepest known part of the ocean? A. Puerto Rico Trench. B. Mariana Trench. C. Java Trench. D. Tonga Trench.",
+   "answer_speech": "B is correct, the Mariana Trench."
+  },
+  {
+   "n": 6,
+   "question": "What kind of animal is a dolphin?",
+   "options": [
+    "Fish",
+    "Reptile",
+    "Mammal",
+    "Amphibian"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question six. What kind of animal is a dolphin? A. Fish. B. Reptile. C. Mammal. D. Amphibian.",
+   "answer_speech": "C is correct, a mammal."
+  },
+  {
+   "n": 7,
+   "question": "How many arms does an octopus have?",
+   "options": [
+    "Six",
+    "Ten",
+    "Twelve",
+    "Eight"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question seven. How many arms does an octopus have? A. Six. B. Ten. C. Twelve. D. Eight.",
+   "answer_speech": "D is correct, eight."
+  },
+  {
+   "n": 8,
+   "question": "What is a group of fish swimming together called?",
+   "options": [
+    "A school",
+    "A pack",
+    "A herd",
+    "A flock"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question eight. What is a group of fish swimming together called? A. A school. B. A pack. C. A herd. D. A flock.",
+   "answer_speech": "A is correct, a school."
+  },
+  {
+   "n": 9,
+   "question": "Which sea animal is called the unicorn of the sea?",
+   "options": [
+    "Narwhal",
+    "Dolphin",
+    "Walrus",
+    "Swordfish"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question nine. Which sea animal is called the unicorn of the sea? A. Narwhal. B. Dolphin. C. Walrus. D. Swordfish.",
+   "answer_speech": "A is correct, the narwhal."
+  },
+  {
+   "n": 10,
+   "question": "What is the largest coral reef system in the world?",
+   "options": [
+    "Red Sea Reef",
+    "Belize Barrier Reef",
+    "Great Barrier Reef",
+    "Florida Reef"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question ten. What is the largest coral reef system in the world? A. Red Sea Reef. B. Belize Barrier Reef. C. Great Barrier Reef. D. Florida Reef.",
+   "answer_speech": "C is correct, the Great Barrier Reef."
+  },
+  {
+   "n": 11,
+   "question": "Which sea animal is known for its star shape?",
+   "options": [
+    "Sea urchin",
+    "Starfish",
+    "Jellyfish",
+    "Sea cucumber"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. Which sea animal is known for its star shape? A. Sea urchin. B. Starfish. C. Jellyfish. D. Sea cucumber.",
+   "answer_speech": "B is correct, the starfish."
+  },
+  {
+   "n": 12,
+   "question": "In which ocean is the Bermuda Triangle located?",
+   "options": [
+    "Pacific",
+    "Indian",
+    "Atlantic",
+    "Arctic"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question twelve. In which ocean is the Bermuda Triangle located? A. Pacific. B. Indian. C. Atlantic. D. Arctic.",
+   "answer_speech": "C is correct, the Atlantic."
+  },
+  {
+   "n": 13,
+   "question": "Which animal can release ink to escape danger?",
+   "options": [
+    "Seahorse",
+    "Crab",
+    "Octopus",
+    "Turtle"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question thirteen. Which animal can release ink to escape danger? A. Seahorse. B. Crab. C. Octopus. D. Turtle.",
+   "answer_speech": "C is correct, the octopus."
+  },
+  {
+   "n": 14,
+   "question": "Which is the largest fish in the world?",
+   "options": [
+    "Great white shark",
+    "Whale shark",
+    "Manta ray",
+    "Tuna"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fourteen. Which is the largest fish in the world? A. Great white shark. B. Whale shark. C. Manta ray. D. Tuna.",
+   "answer_speech": "B is correct, the whale shark."
+  },
+  {
+   "n": 15,
+   "question": "In seahorses, which parent carries the babies?",
+   "options": [
+    "The mother",
+    "The father",
+    "Both parents",
+    "Neither parent"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fifteen. In seahorses, which parent carries the babies? A. The mother. B. The father. C. Both parents. D. Neither parent.",
+   "answer_speech": "B is correct, the father."
+  }
+ ],
+ "clips": [
+  {
+   "id": "v03_q01",
+   "text": "Question one. Which is the largest ocean on Earth? A. Atlantic. B. Pacific. C. Indian. D. Arctic."
+  },
+  {
+   "id": "v03_q02",
+   "text": "Question two. Which is the smallest ocean? A. Arctic. B. Indian. C. Southern. D. Atlantic."
+  },
+  {
+   "id": "v03_q03",
+   "text": "Question three. What is the largest animal living in the ocean? A. Whale shark. B. Orca. C. Blue whale. D. Giant squid."
+  },
+  {
+   "id": "v03_q04",
+   "text": "Question four. About how much of Earth's surface is covered by ocean? A. About 71 percent. B. About 50 percent. C. About 30 percent. D. About 90 percent."
+  },
+  {
+   "id": "v03_q05",
+   "text": "Question five. What is the deepest known part of the ocean? A. Puerto Rico Trench. B. Mariana Trench. C. Java Trench. D. Tonga Trench."
+  },
+  {
+   "id": "v03_q06",
+   "text": "Question six. What kind of animal is a dolphin? A. Fish. B. Reptile. C. Mammal. D. Amphibian."
+  },
+  {
+   "id": "v03_q07",
+   "text": "Question seven. How many arms does an octopus have? A. Six. B. Ten. C. Twelve. D. Eight."
+  },
+  {
+   "id": "v03_q08",
+   "text": "Question eight. What is a group of fish swimming together called? A. A school. B. A pack. C. A herd. D. A flock."
+  },
+  {
+   "id": "v03_q09",
+   "text": "Question nine. Which sea animal is called the unicorn of the sea? A. Narwhal. B. Dolphin. C. Walrus. D. Swordfish."
+  },
+  {
+   "id": "v03_q10",
+   "text": "Question ten. What is the largest coral reef system in the world? A. Red Sea Reef. B. Belize Barrier Reef. C. Great Barrier Reef. D. Florida Reef."
+  },
+  {
+   "id": "v03_q11",
+   "text": "Question eleven. Which sea animal is known for its star shape? A. Sea urchin. B. Starfish. C. Jellyfish. D. Sea cucumber."
+  },
+  {
+   "id": "v03_q12",
+   "text": "Question twelve. In which ocean is the Bermuda Triangle located? A. Pacific. B. Indian. C. Atlantic. D. Arctic."
+  },
+  {
+   "id": "v03_q13",
+   "text": "Question thirteen. Which animal can release ink to escape danger? A. Seahorse. B. Crab. C. Octopus. D. Turtle."
+  },
+  {
+   "id": "v03_q14",
+   "text": "Question fourteen. Which is the largest fish in the world? A. Great white shark. B. Whale shark. C. Manta ray. D. Tuna."
+  },
+  {
+   "id": "v03_q15",
+   "text": "Question fifteen. In seahorses, which parent carries the babies? A. The mother. B. The father. C. Both parents. D. Neither parent."
+  },
+  {
+   "id": "v03_a01",
+   "text": "B is correct, the Pacific."
+  },
+  {
+   "id": "v03_a02",
+   "text": "A is correct, the Arctic."
+  },
+  {
+   "id": "v03_a03",
+   "text": "C is correct, the blue whale."
+  },
+  {
+   "id": "v03_a04",
+   "text": "A is correct, about 71 percent."
+  },
+  {
+   "id": "v03_a05",
+   "text": "B is correct, the Mariana Trench."
+  },
+  {
+   "id": "v03_a06",
+   "text": "C is correct, a mammal."
+  },
+  {
+   "id": "v03_a07",
+   "text": "D is correct, eight."
+  },
+  {
+   "id": "v03_a08",
+   "text": "A is correct, a school."
+  },
+  {
+   "id": "v03_a09",
+   "text": "A is correct, the narwhal."
+  },
+  {
+   "id": "v03_a10",
+   "text": "C is correct, the Great Barrier Reef."
+  },
+  {
+   "id": "v03_a11",
+   "text": "B is correct, the starfish."
+  },
+  {
+   "id": "v03_a12",
+   "text": "C is correct, the Atlantic."
+  },
+  {
+   "id": "v03_a13",
+   "text": "C is correct, the octopus."
+  },
+  {
+   "id": "v03_a14",
+   "text": "B is correct, the whale shark."
+  },
+  {
+   "id": "v03_a15",
+   "text": "B is correct, the father."
+  }
+ ]
+}

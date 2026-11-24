@@ -1,0 +1,348 @@
+{
+ "video": 5,
+ "topic": "World geography",
+ "category": "GEOGRAPHY",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "sources": [
+  "https://www.guinnessworldrecords.com/world-records/smallest-country",
+  "https://denmark.dk/people-and-culture/greenland",
+  "https://www.guinnessworldrecords.com/world-records/largest-desert",
+  "https://www.nca.gov.au/education/canberras-history/canberra-seat-government",
+  "https://kids.britannica.com/students/article/Rabat/276626",
+  "https://www.guinnessworldrecords.com/world-records/highest-mountain"
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "question": "Which is the largest continent by area?",
+   "options": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "North America"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question one. Which is the largest continent by area? A. Africa. B. Asia. C. Europe. D. North America.",
+   "answer_speech": "B is correct, Asia."
+  },
+  {
+   "n": 2,
+   "question": "Which is the largest country by area?",
+   "options": [
+    "Canada",
+    "China",
+    "Russia",
+    "United States"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question two. Which is the largest country by area? A. Canada. B. China. C. Russia. D. United States.",
+   "answer_speech": "C is correct, Russia."
+  },
+  {
+   "n": 3,
+   "question": "Which is the highest mountain above sea level?",
+   "options": [
+    "Mount Everest",
+    "K2",
+    "Kilimanjaro",
+    "Mont Blanc"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question three. Which is the highest mountain above sea level? A. Mount Everest. B. K2. C. Kilimanjaro. D. Mont Blanc.",
+   "answer_speech": "A is correct, Mount Everest."
+  },
+  {
+   "n": 4,
+   "question": "Which is the largest hot desert in the world?",
+   "options": [
+    "Gobi",
+    "Arabian",
+    "Kalahari",
+    "Sahara"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question four. Which is the largest hot desert in the world? A. Gobi. B. Arabian. C. Kalahari. D. Sahara.",
+   "answer_speech": "D is correct, the Sahara."
+  },
+  {
+   "n": 5,
+   "question": "How many continents are there?",
+   "options": [
+    "Five",
+    "Six",
+    "Seven",
+    "Eight"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question five. How many continents are there? A. Five. B. Six. C. Seven. D. Eight.",
+   "answer_speech": "C is correct, seven."
+  },
+  {
+   "n": 6,
+   "question": "What is the capital of Morocco?",
+   "options": [
+    "Casablanca",
+    "Rabat",
+    "Marrakesh",
+    "Fez"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question six. What is the capital of Morocco? A. Casablanca. B. Rabat. C. Marrakesh. D. Fez.",
+   "answer_speech": "B is correct, Rabat."
+  },
+  {
+   "n": 7,
+   "question": "What is the capital of Australia?",
+   "options": [
+    "Sydney",
+    "Melbourne",
+    "Canberra",
+    "Perth"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question seven. What is the capital of Australia? A. Sydney. B. Melbourne. C. Canberra. D. Perth.",
+   "answer_speech": "C is correct, Canberra."
+  },
+  {
+   "n": 8,
+   "question": "What is the capital of Canada?",
+   "options": [
+    "Ottawa",
+    "Toronto",
+    "Vancouver",
+    "Montreal"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question eight. What is the capital of Canada? A. Ottawa. B. Toronto. C. Vancouver. D. Montreal.",
+   "answer_speech": "A is correct, Ottawa."
+  },
+  {
+   "n": 9,
+   "question": "Which is the smallest country in the world?",
+   "options": [
+    "Monaco",
+    "Malta",
+    "San Marino",
+    "Vatican City"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question nine. Which is the smallest country in the world? A. Monaco. B. Malta. C. San Marino. D. Vatican City.",
+   "answer_speech": "D is correct, Vatican City."
+  },
+  {
+   "n": 10,
+   "question": "Which country is shaped like a boot?",
+   "options": [
+    "Spain",
+    "Greece",
+    "Italy",
+    "Portugal"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question ten. Which country is shaped like a boot? A. Spain. B. Greece. C. Italy. D. Portugal.",
+   "answer_speech": "C is correct, Italy."
+  },
+  {
+   "n": 11,
+   "question": "Which is the largest island in the world?",
+   "options": [
+    "Madagascar",
+    "Greenland",
+    "Borneo",
+    "Iceland"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question eleven. Which is the largest island in the world? A. Madagascar. B. Greenland. C. Borneo. D. Iceland.",
+   "answer_speech": "B is correct, Greenland."
+  },
+  {
+   "n": 12,
+   "question": "Which river flows through Paris?",
+   "options": [
+    "The Seine",
+    "The Rhine",
+    "The Danube",
+    "The Thames"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question twelve. Which river flows through Paris? A. The Seine. B. The Rhine. C. The Danube. D. The Thames.",
+   "answer_speech": "A is correct, the Seine."
+  },
+  {
+   "n": 13,
+   "question": "Which ocean lies between Africa and Australia?",
+   "options": [
+    "Atlantic Ocean",
+    "Pacific Ocean",
+    "Indian Ocean",
+    "Arctic Ocean"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question thirteen. Which ocean lies between Africa and Australia? A. Atlantic Ocean. B. Pacific Ocean. C. Indian Ocean. D. Arctic Ocean.",
+   "answer_speech": "C is correct, the Indian Ocean."
+  },
+  {
+   "n": 14,
+   "question": "On which continent is Egypt located?",
+   "options": [
+    "Asia",
+    "Europe",
+    "South America",
+    "Africa"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question fourteen. On which continent is Egypt located? A. Asia. B. Europe. C. South America. D. Africa.",
+   "answer_speech": "D is correct, Africa."
+  },
+  {
+   "n": 15,
+   "question": "What is the capital of Japan?",
+   "options": [
+    "Osaka",
+    "Tokyo",
+    "Kyoto",
+    "Nagoya"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fifteen. What is the capital of Japan? A. Osaka. B. Tokyo. C. Kyoto. D. Nagoya.",
+   "answer_speech": "B is correct, Tokyo."
+  }
+ ],
+ "clips": [
+  {
+   "id": "v05_q01",
+   "text": "Question one. Which is the largest continent by area? A. Africa. B. Asia. C. Europe. D. North America."
+  },
+  {
+   "id": "v05_q02",
+   "text": "Question two. Which is the largest country by area? A. Canada. B. China. C. Russia. D. United States."
+  },
+  {
+   "id": "v05_q03",
+   "text": "Question three. Which is the highest mountain above sea level? A. Mount Everest. B. K2. C. Kilimanjaro. D. Mont Blanc."
+  },
+  {
+   "id": "v05_q04",
+   "text": "Question four. Which is the largest hot desert in the world? A. Gobi. B. Arabian. C. Kalahari. D. Sahara."
+  },
+  {
+   "id": "v05_q05",
+   "text": "Question five. How many continents are there? A. Five. B. Six. C. Seven. D. Eight."
+  },
+  {
+   "id": "v05_q06",
+   "text": "Question six. What is the capital of Morocco? A. Casablanca. B. Rabat. C. Marrakesh. D. Fez."
+  },
+  {
+   "id": "v05_q07",
+   "text": "Question seven. What is the capital of Australia? A. Sydney. B. Melbourne. C. Canberra. D. Perth."
+  },
+  {
+   "id": "v05_q08",
+   "text": "Question eight. What is the capital of Canada? A. Ottawa. B. Toronto. C. Vancouver. D. Montreal."
+  },
+  {
+   "id": "v05_q09",
+   "text": "Question nine. Which is the smallest country in the world? A. Monaco. B. Malta. C. San Marino. D. Vatican City."
+  },
+  {
+   "id": "v05_q10",
+   "text": "Question ten. Which country is shaped like a boot? A. Spain. B. Greece. C. Italy. D. Portugal."
+  },
+  {
+   "id": "v05_q11",
+   "text": "Question eleven. Which is the largest island in the world? A. Madagascar. B. Greenland. C. Borneo. D. Iceland."
+  },
+  {
+   "id": "v05_q12",
+   "text": "Question twelve. Which river flows through Paris? A. The Seine. B. The Rhine. C. The Danube. D. The Thames."
+  },
+  {
+   "id": "v05_q13",
+   "text": "Question thirteen. Which ocean lies between Africa and Australia? A. Atlantic Ocean. B. Pacific Ocean. C. Indian Ocean. D. Arctic Ocean."
+  },
+  {
+   "id": "v05_q14",
+   "text": "Question fourteen. On which continent is Egypt located? A. Asia. B. Europe. C. South America. D. Africa."
+  },
+  {
+   "id": "v05_q15",
+   "text": "Question fifteen. What is the capital of Japan? A. Osaka. B. Tokyo. C. Kyoto. D. Nagoya."
+  },
+  {
+   "id": "v05_a01",
+   "text": "B is correct, Asia."
+  },
+  {
+   "id": "v05_a02",
+   "text": "C is correct, Russia."
+  },
+  {
+   "id": "v05_a03",
+   "text": "A is correct, Mount Everest."
+  },
+  {
+   "id": "v05_a04",
+   "text": "D is correct, the Sahara."
+  },
+  {
+   "id": "v05_a05",
+   "text": "C is correct, seven."
+  },
+  {
+   "id": "v05_a06",
+   "text": "B is correct, Rabat."
+  },
+  {
+   "id": "v05_a07",
+   "text": "C is correct, Canberra."
+  },
+  {
+   "id": "v05_a08",
+   "text": "A is correct, Ottawa."
+  },
+  {
+   "id": "v05_a09",
+   "text": "D is correct, Vatican City."
+  },
+  {
+   "id": "v05_a10",
+   "text": "C is correct, Italy."
+  },
+  {
+   "id": "v05_a11",
+   "text": "B is correct, Greenland."
+  },
+  {
+   "id": "v05_a12",
+   "text": "A is correct, the Seine."
+  },
+  {
+   "id": "v05_a13",
+   "text": "C is correct, the Indian Ocean."
+  },
+  {
+   "id": "v05_a14",
+   "text": "D is correct, Africa."
+  },
+  {
+   "id": "v05_a15",
+   "text": "B is correct, Tokyo."
+  }
+ ]
+}

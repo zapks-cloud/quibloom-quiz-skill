@@ -1,0 +1,233 @@
+{
+ "video": 12,
+ "topic": "Chemistry and elements",
+ "category": "CHEMISTRY",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "What is the chemical symbol for gold?",
+   "options": [
+    "Gd",
+    "Ag",
+    "Go",
+    "Au"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question one. What is the chemical symbol for gold? A. Gd. B. Ag. C. Go. D. Au.",
+   "answer_speech": "D is correct, Au.",
+   "source": "https://en.wikipedia.org/wiki/Gold"
+  },
+  {
+   "n": 2,
+   "question": "What is the chemical formula of water?",
+   "options": [
+    "H2O2",
+    "H2O",
+    "HO2",
+    "OH"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question two. What is the chemical formula of water? A. H2O2. B. H2O. C. HO2. D. OH.",
+   "answer_speech": "B is correct, H2O.",
+   "source": "https://en.wikipedia.org/wiki/Water"
+  },
+  {
+   "n": 3,
+   "question": "Which is the lightest chemical element?",
+   "options": [
+    "Lithium",
+    "Oxygen",
+    "Hydrogen",
+    "Helium"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question three. Which is the lightest chemical element? A. Lithium. B. Oxygen. C. Hydrogen. D. Helium.",
+   "answer_speech": "C is correct, Hydrogen.",
+   "source": "https://en.wikipedia.org/wiki/Hydrogen"
+  },
+  {
+   "n": 4,
+   "question": "What is the chemical symbol for sodium?",
+   "options": [
+    "Sd",
+    "Na",
+    "So",
+    "S"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question four. What is the chemical symbol for sodium? A. Sd. B. Na. C. So. D. S.",
+   "answer_speech": "B is correct, Na.",
+   "source": "https://en.wikipedia.org/wiki/Sodium"
+  },
+  {
+   "n": 5,
+   "question": "Which element has the symbol O?",
+   "options": [
+    "Osmium",
+    "Gold",
+    "Oxygen",
+    "Oganesson"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question five. Which element has the symbol O? A. Osmium. B. Gold. C. Oxygen. D. Oganesson.",
+   "answer_speech": "C is correct, Oxygen.",
+   "source": "https://en.wikipedia.org/wiki/Oxygen"
+  },
+  {
+   "n": 6,
+   "question": "Which noble gas is used to fill party balloons so they float?",
+   "options": [
+    "Argon",
+    "Neon",
+    "Radon",
+    "Helium"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question six. Which noble gas is used to fill party balloons so they float? A. Argon. B. Neon. C. Radon. D. Helium.",
+   "answer_speech": "D is correct, Helium.",
+   "source": "https://en.wikipedia.org/wiki/Helium"
+  },
+  {
+   "n": 7,
+   "question": "Which gas makes up most of Earth's atmosphere?",
+   "options": [
+    "Nitrogen",
+    "Oxygen",
+    "Argon",
+    "Carbon dioxide"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question seven. Which gas makes up most of Earth's atmosphere? A. Nitrogen. B. Oxygen. C. Argon. D. Carbon dioxide.",
+   "answer_speech": "A is correct, Nitrogen.",
+   "source": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth"
+  },
+  {
+   "n": 8,
+   "question": "Which metal is liquid at room temperature?",
+   "options": [
+    "Zinc",
+    "Tin",
+    "Mercury",
+    "Lead"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question eight. Which metal is liquid at room temperature? A. Zinc. B. Tin. C. Mercury. D. Lead.",
+   "answer_speech": "C is correct, Mercury.",
+   "source": "https://en.wikipedia.org/wiki/Mercury_(element)"
+  },
+  {
+   "n": 9,
+   "question": "Table salt is made of sodium and which other element?",
+   "options": [
+    "Fluorine",
+    "Chlorine",
+    "Calcium",
+    "Carbon"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question nine. Table salt is made of sodium and which other element? A. Fluorine. B. Chlorine. C. Calcium. D. Carbon.",
+   "answer_speech": "B is correct, Chlorine.",
+   "source": "https://en.wikipedia.org/wiki/Sodium_chloride"
+  },
+  {
+   "n": 10,
+   "question": "What is the pH of pure water at room temperature?",
+   "options": [
+    "14",
+    "1",
+    "10",
+    "7"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question ten. What is the pH of pure water at room temperature? A. 14. B. 1. C. 10. D. 7.",
+   "answer_speech": "D is correct, 7.",
+   "source": "https://en.wikipedia.org/wiki/PH"
+  },
+  {
+   "n": 11,
+   "question": "What is the chemical symbol for iron?",
+   "options": [
+    "Fe",
+    "In",
+    "Ir",
+    "I"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question eleven. What is the chemical symbol for iron? A. Fe. B. In. C. Ir. D. I.",
+   "answer_speech": "A is correct, Fe.",
+   "source": "https://en.wikipedia.org/wiki/Iron"
+  },
+  {
+   "n": 12,
+   "question": "Diamond is a form of which element?",
+   "options": [
+    "Silicon",
+    "Carbon",
+    "Copper",
+    "Calcium"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question twelve. Diamond is a form of which element? A. Silicon. B. Carbon. C. Copper. D. Calcium.",
+   "answer_speech": "B is correct, Carbon.",
+   "source": "https://en.wikipedia.org/wiki/Diamond"
+  },
+  {
+   "n": 13,
+   "question": "Who created the first widely recognized periodic table in 1869?",
+   "options": [
+    "Isaac Newton",
+    "Marie Curie",
+    "Antoine Lavoisier",
+    "Dmitri Mendeleev"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question thirteen. Who created the first widely recognized periodic table in 1869? A. Isaac Newton. B. Marie Curie. C. Antoine Lavoisier. D. Dmitri Mendeleev.",
+   "answer_speech": "D is correct, Dmitri Mendeleev.",
+   "source": "https://en.wikipedia.org/wiki/Periodic_table"
+  },
+  {
+   "n": 14,
+   "question": "Which metal is the best conductor of electricity?",
+   "options": [
+    "Aluminum",
+    "Gold",
+    "Silver",
+    "Iron"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fourteen. Which metal is the best conductor of electricity? A. Aluminum. B. Gold. C. Silver. D. Iron.",
+   "answer_speech": "C is correct, Silver.",
+   "source": "https://en.wikipedia.org/wiki/Silver"
+  },
+  {
+   "n": 15,
+   "question": "Which state of matter has no fixed shape and no fixed volume?",
+   "options": [
+    "Gas",
+    "Liquid",
+    "Crystal",
+    "Solid"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question fifteen. Which state of matter has no fixed shape and no fixed volume? A. Gas. B. Liquid. C. Crystal. D. Solid.",
+   "answer_speech": "A is correct, Gas.",
+   "source": "https://en.wikipedia.org/wiki/Gas"
+  }
+ ]
+}

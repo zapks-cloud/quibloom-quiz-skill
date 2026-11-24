@@ -1,0 +1,361 @@
+{
+ "video": 1,
+ "topic": "Space",
+ "category": "SPACE",
+ "hook": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "Which planet is closest to the Sun?",
+   "options": [
+    "Venus",
+    "Earth",
+    "Mercury",
+    "Mars"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question one. Which planet is closest to the Sun? A. Venus. B. Earth. C. Mercury. D. Mars.",
+   "answer_speech": "C is correct, Mercury.",
+   "source": "https://science.nasa.gov/mercury/"
+  },
+  {
+   "n": 2,
+   "question": "Which planet is known as the Red Planet?",
+   "options": [
+    "Mars",
+    "Venus",
+    "Jupiter",
+    "Mercury"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question two. Which planet is known as the Red Planet? A. Mars. B. Venus. C. Jupiter. D. Mercury.",
+   "answer_speech": "A is correct, Mars.",
+   "source": "https://science.nasa.gov/mars/facts/"
+  },
+  {
+   "n": 3,
+   "question": "Which planet is the hottest in our solar system?",
+   "options": [
+    "Mercury",
+    "Venus",
+    "Mars",
+    "Neptune"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question three. Which planet is the hottest in our solar system? A. Mercury. B. Venus. C. Mars. D. Neptune.",
+   "answer_speech": "B is correct, Venus.",
+   "source": "https://science.nasa.gov/venus/venus-facts/"
+  },
+  {
+   "n": 4,
+   "question": "Which planet is famous for its bright, wide rings?",
+   "options": [
+    "Jupiter",
+    "Uranus",
+    "Neptune",
+    "Saturn"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question four. Which planet is famous for its bright, wide rings? A. Jupiter. B. Uranus. C. Neptune. D. Saturn.",
+   "answer_speech": "D is correct, Saturn.",
+   "source": "https://spaceplace.nasa.gov/all-about-saturn/en/",
+   "source_note": "spaceplace.nasa.gov: Saturn isn't the only planet with rings but has the most beautiful ones; fetched via search highlight"
+  },
+  {
+   "n": 5,
+   "question": "What is the name of the galaxy our solar system is in?",
+   "options": [
+    "Andromeda",
+    "Triangulum",
+    "The Milky Way",
+    "Sombrero"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question five. What is the name of the galaxy our solar system is in? A. Andromeda. B. Triangulum. C. The Milky Way. D. Sombrero.",
+   "answer_speech": "C is correct, the Milky Way.",
+   "source": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/solar-system-galaxy-universe-whats-the-difference/"
+  },
+  {
+   "n": 6,
+   "question": "Who was the first person to walk on the Moon?",
+   "options": [
+    "Buzz Aldrin",
+    "Neil Armstrong",
+    "Yuri Gagarin",
+    "Michael Collins"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question six. Who was the first person to walk on the Moon? A. Buzz Aldrin. B. Neil Armstrong. C. Yuri Gagarin. D. Michael Collins.",
+   "answer_speech": "B is correct, Neil Armstrong.",
+   "source": "https://www.nasa.gov/people/neil-a-armstrong/"
+  },
+  {
+   "n": 7,
+   "question": "How many planets are in our solar system?",
+   "options": [
+    "Eight",
+    "Nine",
+    "Seven",
+    "Ten"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question seven. How many planets are in our solar system? A. Eight. B. Nine. C. Seven. D. Ten.",
+   "answer_speech": "A is correct, eight.",
+   "source": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+   "n": 8,
+   "question": "What type of object is the Sun?",
+   "options": [
+    "A planet",
+    "A comet",
+    "A moon",
+    "A star"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eight. What type of object is the Sun? A. A planet. B. A comet. C. A moon. D. A star.",
+   "answer_speech": "D is correct, a star.",
+   "source": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+   "n": 9,
+   "question": "Which planet spins tilted on its side?",
+   "options": [
+    "Neptune",
+    "Uranus",
+    "Saturn",
+    "Mars"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question nine. Which planet spins tilted on its side? A. Neptune. B. Uranus. C. Saturn. D. Mars.",
+   "answer_speech": "B is correct, Uranus.",
+   "source": "https://science.nasa.gov/uranus/facts/"
+  },
+  {
+   "n": 10,
+   "question": "What is the largest moon in our solar system?",
+   "options": [
+    "Titan",
+    "Europa",
+    "Ganymede",
+    "Callisto"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question ten. What is the largest moon in our solar system? A. Titan. B. Europa. C. Ganymede. D. Callisto.",
+   "answer_speech": "C is correct, Ganymede.",
+   "source": "https://science.nasa.gov/jupiter/jupiter-moons/ganymede/facts/"
+  },
+  {
+   "n": 11,
+   "question": "What is the largest moon of Saturn?",
+   "options": [
+    "Europa",
+    "Io",
+    "Enceladus",
+    "Titan"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question eleven. What is the largest moon of Saturn? A. Europa. B. Io. C. Enceladus. D. Titan.",
+   "answer_speech": "D is correct, Titan.",
+   "source": "https://science.nasa.gov/saturn/moons/titan/facts/"
+  },
+  {
+   "n": 12,
+   "question": "About how long does sunlight take to reach Earth?",
+   "options": [
+    "About eight minutes",
+    "About eight seconds",
+    "About eight hours",
+    "About eight days"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question twelve. About how long does sunlight take to reach Earth? A. About eight minutes. B. About eight seconds. C. About eight hours. D. About eight days.",
+   "answer_speech": "A is correct, about eight minutes.",
+   "source": "https://science.nasa.gov/earth/facts/"
+  },
+  {
+   "n": 13,
+   "question": "Which planet has the famous Great Red Spot storm?",
+   "options": [
+    "Saturn",
+    "Mars",
+    "Neptune",
+    "Jupiter"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question thirteen. Which planet has the famous Great Red Spot storm? A. Saturn. B. Mars. C. Neptune. D. Jupiter.",
+   "answer_speech": "D is correct, Jupiter.",
+   "source": "https://www.nasa.gov/image-article/jupiters-great-red-spot/"
+  },
+  {
+   "n": 14,
+   "question": "In which year did the James Webb Space Telescope launch?",
+   "options": [
+    "2011",
+    "2016",
+    "2021",
+    "2024"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question fourteen. In which year did the James Webb Space Telescope launch? A. 2011. B. 2016. C. 2021. D. 2024.",
+   "answer_speech": "C is correct, 2021.",
+   "source": "https://science.nasa.gov/mission/webb/webb-mission-timeline/"
+  },
+  {
+   "n": 15,
+   "question": "Which planet is the farthest from the Sun?",
+   "options": [
+    "Uranus",
+    "Neptune",
+    "Saturn",
+    "Jupiter"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question fifteen. Which planet is the farthest from the Sun? A. Uranus. B. Neptune. C. Saturn. D. Jupiter.",
+   "answer_speech": "B is correct, Neptune.",
+   "source": "https://science.nasa.gov/neptune/neptune-facts/"
+  }
+ ],
+ "clips": [
+  {
+   "id": "v01_hook",
+   "text": "Fifteen questions, no second chances. Can you score fifteen out of fifteen? Let us find out."
+  },
+  {
+   "id": "v01_q01",
+   "text": "Question one. Which planet is closest to the Sun? A. Venus. B. Earth. C. Mercury. D. Mars."
+  },
+  {
+   "id": "v01_q02",
+   "text": "Question two. Which planet is known as the Red Planet? A. Mars. B. Venus. C. Jupiter. D. Mercury."
+  },
+  {
+   "id": "v01_q03",
+   "text": "Question three. Which planet is the hottest in our solar system? A. Mercury. B. Venus. C. Mars. D. Neptune."
+  },
+  {
+   "id": "v01_q04",
+   "text": "Question four. Which planet is famous for its bright, wide rings? A. Jupiter. B. Uranus. C. Neptune. D. Saturn."
+  },
+  {
+   "id": "v01_q05",
+   "text": "Question five. What is the name of the galaxy our solar system is in? A. Andromeda. B. Triangulum. C. The Milky Way. D. Sombrero."
+  },
+  {
+   "id": "v01_q06",
+   "text": "Question six. Who was the first person to walk on the Moon? A. Buzz Aldrin. B. Neil Armstrong. C. Yuri Gagarin. D. Michael Collins."
+  },
+  {
+   "id": "v01_q07",
+   "text": "Question seven. How many planets are in our solar system? A. Eight. B. Nine. C. Seven. D. Ten."
+  },
+  {
+   "id": "v01_q08",
+   "text": "Question eight. What type of object is the Sun? A. A planet. B. A comet. C. A moon. D. A star."
+  },
+  {
+   "id": "v01_q09",
+   "text": "Question nine. Which planet spins tilted on its side? A. Neptune. B. Uranus. C. Saturn. D. Mars."
+  },
+  {
+   "id": "v01_q10",
+   "text": "Question ten. What is the largest moon in our solar system? A. Titan. B. Europa. C. Ganymede. D. Callisto."
+  },
+  {
+   "id": "v01_q11",
+   "text": "Question eleven. What is the largest moon of Saturn? A. Europa. B. Io. C. Enceladus. D. Titan."
+  },
+  {
+   "id": "v01_q12",
+   "text": "Question twelve. About how long does sunlight take to reach Earth? A. About eight minutes. B. About eight seconds. C. About eight hours. D. About eight days."
+  },
+  {
+   "id": "v01_q13",
+   "text": "Question thirteen. Which planet has the famous Great Red Spot storm? A. Saturn. B. Mars. C. Neptune. D. Jupiter."
+  },
+  {
+   "id": "v01_q14",
+   "text": "Question fourteen. In which year did the James Webb Space Telescope launch? A. 2011. B. 2016. C. 2021. D. 2024."
+  },
+  {
+   "id": "v01_q15",
+   "text": "Question fifteen. Which planet is the farthest from the Sun? A. Uranus. B. Neptune. C. Saturn. D. Jupiter."
+  },
+  {
+   "id": "v01_a01",
+   "text": "C is correct, Mercury."
+  },
+  {
+   "id": "v01_a02",
+   "text": "A is correct, Mars."
+  },
+  {
+   "id": "v01_a03",
+   "text": "B is correct, Venus."
+  },
+  {
+   "id": "v01_a04",
+   "text": "D is correct, Saturn."
+  },
+  {
+   "id": "v01_a05",
+   "text": "C is correct, the Milky Way."
+  },
+  {
+   "id": "v01_a06",
+   "text": "B is correct, Neil Armstrong."
+  },
+  {
+   "id": "v01_a07",
+   "text": "A is correct, eight."
+  },
+  {
+   "id": "v01_a08",
+   "text": "D is correct, a star."
+  },
+  {
+   "id": "v01_a09",
+   "text": "B is correct, Uranus."
+  },
+  {
+   "id": "v01_a10",
+   "text": "C is correct, Ganymede."
+  },
+  {
+   "id": "v01_a11",
+   "text": "D is correct, Titan."
+  },
+  {
+   "id": "v01_a12",
+   "text": "A is correct, about eight minutes."
+  },
+  {
+   "id": "v01_a13",
+   "text": "D is correct, Jupiter."
+  },
+  {
+   "id": "v01_a14",
+   "text": "C is correct, 2021."
+  },
+  {
+   "id": "v01_a15",
+   "text": "B is correct, Neptune."
+  }
+ ],
+ "clip_count": 31
+}
