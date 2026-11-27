@@ -330,4 +330,27 @@ content/ver.py            fact-check: answer string must appear on source page
 content/sem.py            prints the supporting sentence for manual check
 content/reg.sh            assembles the clip directory for one video
 content/videos/           the 20 verified video JSON scripts
+docs/PRODUCTION-DEFAULTS.md  daily volume, Shorts format, publishing schedule
+shorts/                   5-question Shorts: renderer, QA, thumbnails, samples
 ```
+
+## 13. Shorts and daily plan
+
+Besides the 15-question long quizzes, the channel makes 5-question Shorts
+(1080x1920, under 3:00, YouTube Shorts only). The code, QA scripts,
+thumbnail generator and a sample source and TTS manifest are in `shorts/`.
+Read `shorts/README.md` for the pipeline.
+
+- Format: the original native format. No hook text, options appear one at
+  a time, 5 second countdown, green reveal, closing card. A Short is one
+  third (questions 1 to 5, 6 to 10, 11 to 15) of a 15-question stock quiz.
+- Safe margins: keep all text inside the frame with room to spare. The
+  reveal is at most 3 lines. Run `shorts/render/chk.py` on every render; it
+  rejects reveal text below y=1850 on the 1920 px frame.
+- Every video, long or Short, gets a matching custom thumbnail.
+- Defaults: 20 long plus 20 Shorts produced per day. Shorts are published
+  on YouTube only, 2 per day at 13:00 and 21:00 Morocco time. Long videos
+  are published 1 per day at 19:00 Morocco time. Oldest first. See
+  `docs/PRODUCTION-DEFAULTS.md`. These are planning defaults, not
+  permission to publish; the channel owner decides when.
+- Section 10's one-quiz-per-day wording applies to long videos only.

@@ -22,6 +22,10 @@ python3 renderer/main2.py content/videos/video01_space.json CLIPDIR out.mp4
 `CLIPDIR` is a folder of WAV clips: `hook.wav`, `cta.wav`, `v01_q01.wav`
 to `v01_q15.wav`, `v01_a01.wav` to `v01_a15.wav`.
 
+## Shorts
+
+5-question Shorts (1080x1920, YouTube Shorts only) have their own pipeline in [shorts/](shorts/README.md). Daily volume and publishing defaults: [docs/PRODUCTION-DEFAULTS.md](docs/PRODUCTION-DEFAULTS.md).
+
 ## License
 
 No license file is included on purpose: the channel owner decides whether
