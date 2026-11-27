@@ -1,0 +1,48 @@
+{
+ "voice": "Sadachbia",
+ "instruction": "Engaging English quiz host, bright and clear at a natural pace. Give each answer option a distinct beat. No rushed delivery.",
+ "pronunciation": "Burj Khalifa: BOORJ kha-LEE-fa. Dubai: doo-BYE. Petra: PET-ruh. Jordan: JOR-dun. Angkor Wat: ANG-kor WAHT. Cambodia: kam-BOH-dee-uh. Pisa: PEE-zuh. Vishnu: VISH-noo. Rushmore: RUSH-mor. Say 'Question one' to 'Question five' exactly as written. Numbers are written as words, read as written.",
+ "note": "Closing clip reused. No hook.",
+ "clips": [
+  {
+   "id": "v932_q01",
+   "text": "Question one. Which city is home to the Burj Khalifa? A. Doha. B. Cairo. C. Riyadh. D. Dubai."
+  },
+  {
+   "id": "v932_a01",
+   "text": "Option D is correct. Dubai. Burj Khalifa in Dubai is the world's tallest structure, standing eight hundred twenty-eight meters tall."
+  },
+  {
+   "id": "v932_q02",
+   "text": "Question two. The ancient rose-red city of Petra is in which country? A. Syria. B. Turkey. C. Jordan. D. Lebanon."
+  },
+  {
+   "id": "v932_a02",
+   "text": "Option C is correct. Jordan. Petra in Jordan is famous for its rock-cut architecture and is called the Rose City."
+  },
+  {
+   "id": "v932_q03",
+   "text": "Question three. Angkor Wat is a famous temple complex in which country? A. Cambodia. B. Vietnam. C. Laos. D. Thailand."
+  },
+  {
+   "id": "v932_a03",
+   "text": "Option A is correct. Cambodia. Angkor Wat in Cambodia was built in the twelfth century as a Hindu temple dedicated to Vishnu."
+  },
+  {
+   "id": "v932_q04",
+   "text": "Question four. The Leaning Tower of Pisa is in which country? A. Portugal. B. Greece. C. Spain. D. Italy."
+  },
+  {
+   "id": "v932_a04",
+   "text": "Option D is correct. Italy. The Leaning Tower of Pisa, in Italy, is the bell tower of Pisa Cathedral, leaning nearly four degrees."
+  },
+  {
+   "id": "v932_q05",
+   "text": "Question five. Mount Rushmore, with four carved presidents, is in which US state? A. Montana. B. South Dakota. C. Wyoming. D. Colorado."
+  },
+  {
+   "id": "v932_a05",
+   "text": "Option B is correct. South Dakota. Mount Rushmore in South Dakota shows the heads of Washington, Jefferson, Roosevelt and Lincoln."
+  }
+ ]
+}

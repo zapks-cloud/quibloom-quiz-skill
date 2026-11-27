@@ -1,0 +1,100 @@
+{
+ "video": "L14-3",
+ "format": "short-5Q",
+ "stock_order": 14,
+ "episode": "3/3 (stock questions 11 to 15)",
+ "topic": "Landmarks",
+ "category": "GEOGRAPHY",
+ "questions": [
+  {
+   "n": 1,
+   "stock_q": 11,
+   "question": "Which city is home to the Burj Khalifa?",
+   "options": [
+    "Doha",
+    "Cairo",
+    "Riyadh",
+    "Dubai"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question one. Which city is home to the Burj Khalifa? A. Doha. B. Cairo. C. Riyadh. D. Dubai.",
+   "answer_speech": "Option D is correct. Dubai. Burj Khalifa in Dubai is the world's tallest structure, standing eight hundred twenty-eight meters tall.",
+   "reveal": "Burj Khalifa in Dubai is the world's tallest structure, standing 828 m tall.",
+   "source": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+   "source_keyword": "the world's tallest structure ... of 828 m (2,717 ft)"
+  },
+  {
+   "n": 2,
+   "stock_q": 12,
+   "question": "The ancient rose-red city of Petra is in which country?",
+   "options": [
+    "Syria",
+    "Turkey",
+    "Jordan",
+    "Lebanon"
+   ],
+   "correct_index": 2,
+   "answer_letter": "C",
+   "question_speech": "Question two. The ancient rose-red city of Petra is in which country? A. Syria. B. Turkey. C. Jordan. D. Lebanon.",
+   "answer_speech": "Option C is correct. Jordan. Petra in Jordan is famous for its rock-cut architecture and is called the Rose City.",
+   "reveal": "Petra in Jordan is famous for its rock-cut architecture and is called the Rose City.",
+   "source": "https://en.wikipedia.org/wiki/Petra",
+   "source_keyword": "famous for its rock-cut architecture ... also called the Rose City"
+  },
+  {
+   "n": 3,
+   "stock_q": 13,
+   "question": "Angkor Wat is a famous temple complex in which country?",
+   "options": [
+    "Cambodia",
+    "Vietnam",
+    "Laos",
+    "Thailand"
+   ],
+   "correct_index": 0,
+   "answer_letter": "A",
+   "question_speech": "Question three. Angkor Wat is a famous temple complex in which country? A. Cambodia. B. Vietnam. C. Laos. D. Thailand.",
+   "answer_speech": "Option A is correct. Cambodia. Angkor Wat in Cambodia was built in the twelfth century as a Hindu temple dedicated to Vishnu.",
+   "reveal": "Angkor Wat in Cambodia was built in the 12th century as a Hindu temple dedicated to Vishnu.",
+   "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+   "source_keyword": "constructed between 1113 and 1150 CE ... as a Hindu temple dedicated to Vishnu"
+  },
+  {
+   "n": 4,
+   "stock_q": 14,
+   "question": "The Leaning Tower of Pisa is in which country?",
+   "options": [
+    "Portugal",
+    "Greece",
+    "Spain",
+    "Italy"
+   ],
+   "correct_index": 3,
+   "answer_letter": "D",
+   "question_speech": "Question four. The Leaning Tower of Pisa is in which country? A. Portugal. B. Greece. C. Spain. D. Italy.",
+   "answer_speech": "Option D is correct. Italy. The Leaning Tower of Pisa, in Italy, is the bell tower of Pisa Cathedral, leaning nearly four degrees.",
+   "reveal": "The Leaning Tower of Pisa, Italy, is the bell tower of Pisa Cathedral, leaning nearly four degrees.",
+   "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+   "source_keyword": "campanile, or freestanding bell tower, of Pisa Cathedral; nearly four-degree lean"
+  },
+  {
+   "n": 5,
+   "stock_q": 15,
+   "question": "Mount Rushmore, with four carved presidents, is in which US state?",
+   "options": [
+    "Montana",
+    "South Dakota",
+    "Wyoming",
+    "Colorado"
+   ],
+   "correct_index": 1,
+   "answer_letter": "B",
+   "question_speech": "Question five. Mount Rushmore, with four carved presidents, is in which US state? A. Montana. B. South Dakota. C. Wyoming. D. Colorado.",
+   "answer_speech": "Option B is correct. South Dakota. Mount Rushmore in South Dakota shows the heads of Washington, Jefferson, Roosevelt and Lincoln.",
+   "reveal": "Mount Rushmore in South Dakota shows the heads of Washington, Jefferson, Roosevelt and Lincoln.",
+   "source": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+   "source_keyword": "colossal sculpture ... heads of Washington, Jefferson, Roosevelt, Lincoln"
+  }
+ ]
+}
