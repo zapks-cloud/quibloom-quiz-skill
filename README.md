@@ -28,7 +28,8 @@ to `v01_q15.wav`, `v01_a01.wav` to `v01_a15.wav`.
 
 ## License
 
-No license file is included on purpose: the channel owner decides whether
-and how to license this material. Question sources keep their own
-licenses (Wikipedia text is generally CC BY-SA); Noto Sans fonts are SIL
-OFL. See SKILL.md section 11.
+This project is released under the [MIT License](LICENSE).
+
+Third-party material keeps its own licenses: question sources keep their
+own licenses (Wikipedia text is generally CC BY-SA), and Noto Sans fonts
+are SIL OFL. See SKILL.md section 11.
